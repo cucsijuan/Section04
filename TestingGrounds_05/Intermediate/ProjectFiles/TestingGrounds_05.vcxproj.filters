@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\TestingGrounds_05.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{4C2C0022-2DD2-45BA-B636-5C9EC3C94858}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TestingGrounds_05.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\TestingGrounds_05Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{DE702883-8512-4AD1-920B-42622C6D4EE6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\TestingGrounds_05">
+			<UniqueIdentifier>{E47D7D01-E7C8-4CEB-ABA9-2B87D7CBD112}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TestingGrounds_05\TestingGrounds_05.Build.cs">
+			<Filter>Source\TestingGrounds_05</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\TestingGrounds_05\TestingGrounds_05.cpp">
+			<Filter>Source\TestingGrounds_05</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TestingGrounds_05\TestingGrounds_05.h">
+			<Filter>Source\TestingGrounds_05</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TestingGrounds_05\TestingGrounds_05Character.cpp">
+			<Filter>Source\TestingGrounds_05</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TestingGrounds_05\TestingGrounds_05Character.h">
+			<Filter>Source\TestingGrounds_05</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TestingGrounds_05\TestingGrounds_05GameMode.cpp">
+			<Filter>Source\TestingGrounds_05</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TestingGrounds_05\TestingGrounds_05GameMode.h">
+			<Filter>Source\TestingGrounds_05</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TestingGrounds_05\TestingGrounds_05HUD.cpp">
+			<Filter>Source\TestingGrounds_05</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TestingGrounds_05\TestingGrounds_05HUD.h">
+			<Filter>Source\TestingGrounds_05</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TestingGrounds_05\TestingGrounds_05Projectile.cpp">
+			<Filter>Source\TestingGrounds_05</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TestingGrounds_05\TestingGrounds_05Projectile.h">
+			<Filter>Source\TestingGrounds_05</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
