@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\TestingGrounds_05.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{93DE5BBA-6B1D-4111-9E65-4164940988D2}</UniqueIdentifier>
+			<UniqueIdentifier>{8BDAE294-3C1F-4B0D-B832-57A44A7B25D3}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestingGrounds_05.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{1281288D-BE7F-4DC3-8656-1CEC4B655DED}</UniqueIdentifier>
+			<UniqueIdentifier>{9753841A-E760-4E88-A406-D80D66DD4BEC}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\TestingGrounds_05">
-			<UniqueIdentifier>{2CDEAB7D-4DDF-465A-A2FB-925FF85996E5}</UniqueIdentifier>
+			<UniqueIdentifier>{9AD7419D-5E78-48E0-AB3F-759E067D3264}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestingGrounds_05\TestingGrounds_05.Build.cs">
 			<Filter>Source\TestingGrounds_05</Filter>
@@ -65,6 +65,24 @@
 		</ClCompile >
 		<ClInclude Include="..\..\Source\TestingGrounds_05\TestingGrounds_05Projectile.h">
 			<Filter>Source\TestingGrounds_05</Filter>
+		</ClInclude >
+		<Filter Include="Source\TestingGrounds_05\TP_ThirdPerson">
+			<UniqueIdentifier>{746DFDFD-BD71-4457-841D-08D89670EB63}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\TestingGrounds_05\TP_ThirdPerson\TP_ThirdPerson.h">
+			<Filter>Source\TestingGrounds_05\TP_ThirdPerson</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TestingGrounds_05\TP_ThirdPerson\TP_ThirdPersonCharacter.cpp">
+			<Filter>Source\TestingGrounds_05\TP_ThirdPerson</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TestingGrounds_05\TP_ThirdPerson\TP_ThirdPersonCharacter.h">
+			<Filter>Source\TestingGrounds_05\TP_ThirdPerson</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TestingGrounds_05\TP_ThirdPerson\TP_ThirdPersonGameMode.cpp">
+			<Filter>Source\TestingGrounds_05\TP_ThirdPerson</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TestingGrounds_05\TP_ThirdPerson\TP_ThirdPersonGameMode.h">
+			<Filter>Source\TestingGrounds_05\TP_ThirdPerson</Filter>
 		</ClInclude >
 	</ItemGroup>
 </Project>

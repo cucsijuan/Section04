@@ -581,3 +581,476 @@ LogInit: Object subsystem initialized
 [2018.01.16-17.12.42:363][878]SourceControl: [master fbad768] Marketing and MarkDown
 [2018.01.16-17.12.42:363][878]SourceControl:  1 file changed, 2 insertions(+), 2 deletions(-)
 [2018.01.16-17.12.42:379][878]SourceControl: Commited [master fbad768] Marketing and MarkDown.
+[2018.01.16-18.05.33:105][196]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.16-18.05.33:106][196]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.16-18.05.37:127][416]LogSlate: Took 0.000463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.16-18.06.09:346][613]LogSlate: Took 0.002246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.16-18.06.12:866][779]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0027 seconds. Added 116 classes and 0 folders.
+[2018.01.16-18.06.16:863][894]LogSlate: Took 0.002287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.16-18.06.21:806][130]LogRenderer: Reallocating scene render targets to support 720x524 Format 10 NumSamples 1 (Frame:1).
+[2018.01.16-18.08.11:750][ 22]SourceControl: Error: fatal: Invalid path '/Script': No such file or directory
+[2018.01.16-18.08.57:232][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2018.01.16-18.09.23:549][856]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.01.16-18.11.06:281][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.16-18.11.57:788][805]LogEditorViewport: Clicking on Actor (LMB): Brush (Escalera curva Pincel)
+[2018.01.16-18.13.38:645][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.16-18.13.53:091][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.16-18.13.55:793][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.16-18.13.56:709][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.16-18.14.17:775][374]LogSlate: Took 0.000515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.16-18.14.27:152][401]LogSavePackage: Save=259.76ms
+[2018.01.16-18.14.27:152][401]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/FirstPersonExampleMap_Auto1DDDBEBB34D69CC7640EFCF88AAB7A37E.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.01.16-18.14.27:156][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.01.16-18.14.27:160][401]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.322
+[2018.01.16-18.14.27:160][401]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.322
+[2018.01.16-18.14.54:446][489]LogRenderer: Reallocating scene render targets to support 720x532 Format 10 NumSamples 1 (Frame:35541).
+[2018.01.16-18.17.00:881][947]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/1M_Cube.uasset to ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Geometry/Meshes/1M_Cube.uasset
+[2018.01.16-18.17.00:888][947]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/CubeMaterial.uasset to ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Geometry/Meshes/CubeMaterial.uasset
+[2018.01.16-18.17.01:158][947]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.18/FeaturePacks/TP_ThirdPerson.upack)
+[2018.01.16-18.17.01:266][947]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.01.16-18.17.01:270][947]LogPackFactory: Copied "../../../Templates/TP_ThirdPerson/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" to "../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset"
+[2018.01.16-18.17.01:306][947]LogPackFactory: Copied "../../../Templates/TP_ThirdPerson/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" to "../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap"
+[2018.01.16-18.17.01:321][947]LogPackFactory: Copied "../../../Templates/TP_ThirdPerson/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset" to "../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset"
+[2018.01.16-18.17.01:345][947]Running C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/admin/Documents/Section05/TestingGrounds_05/TestingGrounds_05.uproject" -game -rocket -progress
+[2018.01.16-18.17.01:654][947]Discovering modules, targets and source code for project...
+[2018.01.16-18.17.08:201][947]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.16-18.17.08:211][947]Candidate modules for hot reload:
+[2018.01.16-18.17.08:211][947]  TestingGrounds_05
+[2018.01.16-18.17.08:212][947]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe TestingGrounds_05 -ModuleWithSuffix TestingGrounds_05 8755 Win64 Development -editorrecompile -canskiplink "C:/Users/admin/Documents/Section05/TestingGrounds_05/TestingGrounds_05.uproject" ]
+[2018.01.16-18.17.45:170][947]CompilerResultsLog: New page: Compilación - Jan 16, 2018, 12:17:45 PM
+[2018.01.16-18.17.45:171][947]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2018.01.16-18.17.45:171][947]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.16-18.17.45:172][947]CompilerResultsLog: Creating makefile for hot reloading TestingGrounds_05 (no existing makefile)
+[2018.01.16-18.17.45:172][947]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.16-18.17.45:172][947]CompilerResultsLog: Parsing headers for TestingGrounds_05Editor
+[2018.01.16-18.17.45:172][947]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\admin\Documents\Section05\TestingGrounds_05\TestingGrounds_05.uproject" "C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\TestingGrounds_05Editor\Development\TestingGrounds_05Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.01.16-18.17.45:173][947]CompilerResultsLog: Reflection code generated for TestingGrounds_05Editor in 11.1805262 seconds
+[2018.01.16-18.17.45:173][947]CompilerResultsLog: Performing 7 actions (2 in parallel)
+[2018.01.16-18.17.45:173][947]CompilerResultsLog: TP_ThirdPersonCharacter.cpp
+[2018.01.16-18.17.45:173][947]CompilerResultsLog: TestingGrounds_05.init.gen.cpp
+[2018.01.16-18.17.45:173][947]CompilerResultsLog: TP_ThirdPersonGameMode.cpp
+[2018.01.16-18.17.45:173][947]CompilerResultsLog: TP_ThirdPersonCharacter.gen.cpp
+[2018.01.16-18.17.45:173][947]CompilerResultsLog: TP_ThirdPersonGameMode.gen.cpp
+[2018.01.16-18.17.45:173][947]CompilerResultsLog: [6/7] Link UE4Editor-TestingGrounds_05-8755.dll
+[2018.01.16-18.17.45:174][947]CompilerResultsLog: [7/7] Link UE4Editor-TestingGrounds_05-8755.lib
+[2018.01.16-18.17.45:174][947]CompilerResultsLog:    Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8755.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8755.exp
+[2018.01.16-18.17.45:174][947]CompilerResultsLog:    Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8755.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8755.suppressed.exp
+[2018.01.16-18.17.45:175][947]CompilerResultsLog: Total build time: 36.71 seconds (Local executor: 11.87 seconds)
+[2018.01.16-18.17.45:175][947]LogMainFrame: MainFrame: Module compiling took 36.974 seconds
+[2018.01.16-18.17.45:283][947]LogClass: Could not find existing class TP_ThirdPersonCharacter in package /Script/TestingGrounds_05 for HotReload, assuming new class
+[2018.01.16-18.17.45:283][947]LogClass: Could not find existing class TP_ThirdPersonGameMode in package /Script/TestingGrounds_05 for HotReload, assuming new class
+[2018.01.16-18.17.45:442][947]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.01.16-18.17.45:616][947]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.01.16-18.17.45:825][947]LogContentBrowser: Native class hierarchy updated for 'TestingGrounds_05' in 0.0015 seconds. Added 6 classes and 3 folders.
+[2018.01.16-18.17.45:829][947]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2018.01.16-18.17.46:453][947]LogContentBrowser: Native class hierarchy populated in 0.0189 seconds. Added 2371 classes and 526 folders.
+[2018.01.16-18.17.46:458][947]Display: HotReload took 38.3s.
+[2018.01.16-18.17.46:459][947]Warning: HotReload operation took 38.3s.
+[2018.01.16-18.17.50:253][947]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2018.01.16-18.17.50:254][947]SourceControl: Error: TestingGrounds_05/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.16-18.17.50:254][947]SourceControl: Error: Use -f if you really want to add them.
+[2018.01.16-18.17.50:256][947]LogPackFactory: Error: No pudo marcar ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset el archivo para añadir.
+[2018.01.16-18.17.52:020][947]LogSavePackage: Save=38.10ms
+[2018.01.16-18.17.52:021][947]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/ThirdPersonCharacterCD60E11D42139AD0D52B61BC79065FBD.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.01.16-18.17.52:029][947]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.16-18.17.52:033][947]LogLinker: Warning: No puede encontrar el archivo '/Game/ThirdPersonCPP/ThirdPersonOverview'
+[2018.01.16-18.17.52:034][947]LogLinker: Warning: No puede encontrar el archivo '/Game/ThirdPersonCPP/ThirdPersonOverview'
+[2018.01.16-18.17.52:034][947]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/ThirdPersonCPP/ThirdPersonOverview.ThirdPersonOverview'
+[2018.01.16-18.17.52:081][947]LogHotReload: New module detected: UE4Editor-TestingGrounds_05-8755.dll
+[2018.01.16-18.17.52:140][948]LogHotReload: Starting Hot-Reload from IDE
+[2018.01.16-18.17.52:329][948]LogContentBrowser: Native class hierarchy updated for 'TestingGrounds_05' in 0.0019 seconds. Added 6 classes and 3 folders.
+[2018.01.16-18.17.52:335][948]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.01.16-18.17.52:891][948]LogContentBrowser: Native class hierarchy populated in 0.0157 seconds. Added 2371 classes and 526 folders.
+[2018.01.16-18.17.52:895][948]Display: HotReload took  0.8s.
+[2018.01.16-18.19.01:942][507]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.19.01:947][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.16-18.19.01:952][507]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (Jan 16, 2018, 12:19:01 PM)
+[2018.01.16-18.19.01:953][507]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.16-18.19.01:991][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037800s)
+[2018.01.16-18.19.01:992][507]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.16-18.19.01:994][507]LogPlayLevel: PIE: World Init took: (0.001933s)
+[2018.01.16-18.19.01:994][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.040955s)
+[2018.01.16-18.19.02:094][507]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.16-18.19.02:119][507]LogInit: FAudioDevice initialized.
+[2018.01.16-18.19.02:168][507]LogLoad: Game class is 'TestingGrounds_05GameMode'
+[2018.01.16-18.19.02:192][507]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.01.16-15.19.02
+[2018.01.16-18.19.02:216][507]LogWorld: Bringing up level for play took: 0.026632
+[2018.01.16-18.19.02:339][507]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.01.16-18.19.02:346][507]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 1.398
+[2018.01.16-18.19.02:347][507]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.19.13:849][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.19.13:897][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.24.31:644][977]LogRenderer: Reallocating scene render targets to support 720x544 Format 10 NumSamples 1 (Frame:44236).
+[2018.01.16-18.24.31:735][978]LogRenderer: Reallocating scene render targets to support 720x568 Format 10 NumSamples 1 (Frame:44240).
+[2018.01.16-18.24.31:813][979]LogRenderer: Reallocating scene render targets to support 720x580 Format 10 NumSamples 1 (Frame:44244).
+[2018.01.16-18.24.31:897][980]LogRenderer: Reallocating scene render targets to support 720x608 Format 10 NumSamples 1 (Frame:44248).
+[2018.01.16-18.24.31:974][981]LogRenderer: Reallocating scene render targets to support 720x612 Format 10 NumSamples 1 (Frame:44252).
+[2018.01.16-18.26.20:731][898]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.01.16-18.26.23:494][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.16-18.26.27:035][265]Cmd: SELECT NONE
+[2018.01.16-18.27.48:076][722]LogSavePackage: Save=284.13ms
+[2018.01.16-18.27.48:077][722]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/FirstPersonExampleMap_Auto213257FED4B551351A51E6D9DF670B32F.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2018.01.16-18.27.48:081][722]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap
+[2018.01.16-18.27.48:085][722]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.343
+[2018.01.16-18.27.48:085][722]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.343
+[2018.01.16-18.30.38:235][894]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.01.16-18.31.54:363][110]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.01.16-18.31.54:384][110]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.01.16-18.31.54:407][110]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.01.16-18.32.21:603][867]SourceControl: On branch master
+[2018.01.16-18.32.21:603][867]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2018.01.16-18.32.21:603][867]SourceControl: Changes to be committed:
+[2018.01.16-18.32.21:603][867]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.01.16-18.32.21:603][867]SourceControl: 	new file:   TestingGrounds_05/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.16-18.32.21:603][867]SourceControl: 	new file:   TestingGrounds_05/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap
+[2018.01.16-18.32.21:603][867]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPerson.h
+[2018.01.16-18.32.21:604][867]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPersonCharacter.cpp
+[2018.01.16-18.32.21:604][867]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPersonCharacter.h
+[2018.01.16-18.32.21:604][867]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPersonGameMode.cpp
+[2018.01.16-18.32.21:604][867]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPersonGameMode.h
+[2018.01.16-18.32.21:604][867]SourceControl: Changes not staged for commit:
+[2018.01.16-18.32.21:604][867]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.01.16-18.32.21:604][867]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.16-18.32.21:605][867]SourceControl: 	modified:   TestingGrounds_05/Binaries/Win64/UE4Editor.modules
+[2018.01.16-18.32.21:605][867]SourceControl: 	modified:   TestingGrounds_05/Config/DefaultEngine.ini
+[2018.01.16-18.32.21:605][867]SourceControl: 	modified:   TestingGrounds_05/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.16-18.32.21:605][867]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/ActionHistory.bin
+[2018.01.16-18.32.21:605][867]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/DependencyCache.bin
+[2018.01.16-18.32.21:605][867]SourceControl: 	deleted:    TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/Development/Makefile.ubt
+[2018.01.16-18.32.21:606][867]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/Development/TestingGrounds_05Editor.uhtmanifest
+[2018.01.16-18.32.21:606][867]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/FlatCPPIncludes.bin
+[2018.01.16-18.32.21:606][867]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TestingGrounds_05.init.gen.cpp
+[2018.01.16-18.32.21:606][867]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/Timestamp
+[2018.01.16-18.32.21:606][867]SourceControl: 	modified:   TestingGrounds_05/Intermediate/ProjectFiles/TestingGrounds_05.vcxproj
+[2018.01.16-18.32.21:606][867]SourceControl: 	modified:   TestingGrounds_05/Intermediate/ProjectFiles/TestingGrounds_05.vcxproj.filters
+[2018.01.16-18.32.21:607][867]SourceControl: 	modified:   TestingGrounds_05/Intermediate/ProjectFiles/UE4.vcxproj.filters
+[2018.01.16-18.32.21:607][867]SourceControl: 	modified:   TestingGrounds_05/Saved/Autosaves/PackageRestoreData.json
+[2018.01.16-18.32.21:607][867]SourceControl: 	modified:   TestingGrounds_05/Saved/Config/Windows/Editor.ini
+[2018.01.16-18.32.21:607][867]SourceControl: 	modified:   TestingGrounds_05/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.01.16-18.32.21:607][867]SourceControl: 	modified:   TestingGrounds_05/Saved/Config/Windows/Engine.ini
+[2018.01.16-18.32.21:607][867]SourceControl: 	modified:   TestingGrounds_05/Saved/Config/WorldState/412261283.json
+[2018.01.16-18.32.21:607][867]SourceControl: 	modified:   TestingGrounds_05/Saved/Logs/TestingGrounds_05.log
+[2018.01.16-18.32.21:607][867]SourceControl: Untracked files:
+[2018.01.16-18.32.21:607][867]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.16-18.32.21:607][867]SourceControl: 	TestingGrounds_05/Binaries/Win64/UE4Editor-TestingGrounds_05-8755.pdb
+[2018.01.16-18.32.21:608][867]SourceControl: 	TestingGrounds_05/Content/Mannequin/
+[2018.01.16-18.32.21:608][867]SourceControl: 	TestingGrounds_05/Content/ThirdPerson/
+[2018.01.16-18.32.21:608][867]SourceControl: 	TestingGrounds_05/Intermediate/AssetRegistryCache/311563bb.bin
+[2018.01.16-18.32.21:608][867]SourceControl: 	TestingGrounds_05/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.01.16-18.32.21:608][867]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/Development/HotReloadMakefile.ubt
+[2018.01.16-18.32.21:608][867]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/TestingGrounds_05/TP_ThirdPersonCharacter.cpp.obj.response
+[2018.01.16-18.32.21:608][867]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/TestingGrounds_05/TP_ThirdPersonCharacter.gen.cpp.obj.response
+[2018.01.16-18.32.21:608][867]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/TestingGrounds_05/TP_ThirdPersonGameMode.cpp.obj.response
+[2018.01.16-18.32.21:609][867]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/TestingGrounds_05/TP_ThirdPersonGameMode.gen.cpp.obj.response
+[2018.01.16-18.32.21:609][867]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-TestingGrounds_05-8755.dll.response
+[2018.01.16-18.32.21:609][867]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-TestingGrounds_05-8755.exp
+[2018.01.16-18.32.21:609][867]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-TestingGrounds_05-8755.lib.response
+[2018.01.16-18.32.21:609][867]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-TestingGrounds_05-8755.suppressed.exp
+[2018.01.16-18.32.21:609][867]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TP_ThirdPersonCharacter.gen.cpp
+[2018.01.16-18.32.21:610][867]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TP_ThirdPersonCharacter.generated.h
+[2018.01.16-18.32.21:610][867]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TP_ThirdPersonGameMode.gen.cpp
+[2018.01.16-18.32.21:610][867]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TP_ThirdPersonGameMode.generated.h
+[2018.01.16-18.32.21:610][867]SourceControl: 	TestingGrounds_05/Intermediate/Config/CoalescedSourceConfigs/Script/
+[2018.01.16-18.32.21:610][867]SourceControl: 	TestingGrounds_05/Saved/Autosaves/Game/
+[2018.01.16-18.32.21:610][867]SourceControl: 	TestingGrounds_05/Saved/Backup/FirstPersonExampleMap_2018-01-16-15-14-26.umap
+[2018.01.16-18.32.21:610][867]SourceControl: 	TestingGrounds_05/Saved/Backup/FirstPersonExampleMap_2018-01-16-15-27-47.umap
+[2018.01.16-18.32.21:611][867]SourceControl: 	TestingGrounds_05/Saved/Backup/ThirdPersonCharacter_2018-01-16-15-17-51.uasset
+[2018.01.16-18.32.21:611][867]SourceControl: 	TestingGrounds_05/Saved/Config/Windows/SourceControlSettings.ini
+[2018.01.16-18.32.21:895][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NewBehaviorTree" FILE="../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/NewBehaviorTree.uasset" SILENT=true
+[2018.01.16-18.32.21:903][867]LogSavePackage: Save=2.98ms
+[2018.01.16-18.32.21:903][867]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/NewBehaviorTreeEC50245A46EB8C6E45CFDC87ED253C00.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/NewBehaviorTree.uasset'
+[2018.01.16-18.32.21:913][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/NewBehaviorTree.uasset
+[2018.01.16-18.32.28:869][205]SourceControl: On branch master
+[2018.01.16-18.32.28:870][205]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2018.01.16-18.32.28:870][205]SourceControl: Changes to be committed:
+[2018.01.16-18.32.28:871][205]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.01.16-18.32.28:871][205]SourceControl: 	new file:   TestingGrounds_05/Content/Blueprints/NewBehaviorTree.uasset
+[2018.01.16-18.32.28:872][205]SourceControl: 	new file:   TestingGrounds_05/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.16-18.32.28:872][205]SourceControl: 	new file:   TestingGrounds_05/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap
+[2018.01.16-18.32.28:872][205]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPerson.h
+[2018.01.16-18.32.28:873][205]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPersonCharacter.cpp
+[2018.01.16-18.32.28:873][205]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPersonCharacter.h
+[2018.01.16-18.32.28:874][205]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPersonGameMode.cpp
+[2018.01.16-18.32.28:874][205]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPersonGameMode.h
+[2018.01.16-18.32.28:874][205]SourceControl: Changes not staged for commit:
+[2018.01.16-18.32.28:875][205]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.01.16-18.32.28:875][205]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.16-18.32.28:875][205]SourceControl: 	modified:   TestingGrounds_05/Binaries/Win64/UE4Editor.modules
+[2018.01.16-18.32.28:876][205]SourceControl: 	modified:   TestingGrounds_05/Config/DefaultEngine.ini
+[2018.01.16-18.32.28:876][205]SourceControl: 	modified:   TestingGrounds_05/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.16-18.32.28:876][205]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/ActionHistory.bin
+[2018.01.16-18.32.28:876][205]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/DependencyCache.bin
+[2018.01.16-18.32.28:877][205]SourceControl: 	deleted:    TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/Development/Makefile.ubt
+[2018.01.16-18.32.28:877][205]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/Development/TestingGrounds_05Editor.uhtmanifest
+[2018.01.16-18.32.28:878][205]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/FlatCPPIncludes.bin
+[2018.01.16-18.32.28:878][205]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TestingGrounds_05.init.gen.cpp
+[2018.01.16-18.32.28:878][205]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/Timestamp
+[2018.01.16-18.32.28:879][205]SourceControl: 	modified:   TestingGrounds_05/Intermediate/ProjectFiles/TestingGrounds_05.vcxproj
+[2018.01.16-18.32.28:879][205]SourceControl: 	modified:   TestingGrounds_05/Intermediate/ProjectFiles/TestingGrounds_05.vcxproj.filters
+[2018.01.16-18.32.28:879][205]SourceControl: 	modified:   TestingGrounds_05/Intermediate/ProjectFiles/UE4.vcxproj.filters
+[2018.01.16-18.32.28:879][205]SourceControl: 	modified:   TestingGrounds_05/Saved/Autosaves/PackageRestoreData.json
+[2018.01.16-18.32.28:880][205]SourceControl: 	modified:   TestingGrounds_05/Saved/Config/Windows/Editor.ini
+[2018.01.16-18.32.28:880][205]SourceControl: 	modified:   TestingGrounds_05/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.01.16-18.32.28:880][205]SourceControl: 	modified:   TestingGrounds_05/Saved/Config/Windows/Engine.ini
+[2018.01.16-18.32.28:880][205]SourceControl: 	modified:   TestingGrounds_05/Saved/Config/WorldState/412261283.json
+[2018.01.16-18.32.28:881][205]SourceControl: 	modified:   TestingGrounds_05/Saved/Logs/TestingGrounds_05.log
+[2018.01.16-18.32.28:881][205]SourceControl: Untracked files:
+[2018.01.16-18.32.28:881][205]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.16-18.32.28:881][205]SourceControl: 	TestingGrounds_05/Binaries/Win64/UE4Editor-TestingGrounds_05-8755.pdb
+[2018.01.16-18.32.28:881][205]SourceControl: 	TestingGrounds_05/Content/Mannequin/
+[2018.01.16-18.32.28:881][205]SourceControl: 	TestingGrounds_05/Content/ThirdPerson/
+[2018.01.16-18.32.28:882][205]SourceControl: 	TestingGrounds_05/Intermediate/AssetRegistryCache/311563bb.bin
+[2018.01.16-18.32.28:882][205]SourceControl: 	TestingGrounds_05/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.01.16-18.32.28:882][205]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/Development/HotReloadMakefile.ubt
+[2018.01.16-18.32.28:883][205]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/TestingGrounds_05/TP_ThirdPersonCharacter.cpp.obj.response
+[2018.01.16-18.32.28:883][205]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/TestingGrounds_05/TP_ThirdPersonCharacter.gen.cpp.obj.response
+[2018.01.16-18.32.28:884][205]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/TestingGrounds_05/TP_ThirdPersonGameMode.cpp.obj.response
+[2018.01.16-18.32.28:885][205]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/TestingGrounds_05/TP_ThirdPersonGameMode.gen.cpp.obj.response
+[2018.01.16-18.32.28:885][205]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-TestingGrounds_05-8755.dll.response
+[2018.01.16-18.32.28:885][205]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-TestingGrounds_05-8755.exp
+[2018.01.16-18.32.28:886][205]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-TestingGrounds_05-8755.lib.response
+[2018.01.16-18.32.28:886][205]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-TestingGrounds_05-8755.suppressed.exp
+[2018.01.16-18.32.28:886][205]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TP_ThirdPersonCharacter.gen.cpp
+[2018.01.16-18.32.28:886][205]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TP_ThirdPersonCharacter.generated.h
+[2018.01.16-18.32.28:887][205]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TP_ThirdPersonGameMode.gen.cpp
+[2018.01.16-18.32.28:887][205]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TP_ThirdPersonGameMode.generated.h
+[2018.01.16-18.32.28:887][205]SourceControl: 	TestingGrounds_05/Intermediate/Config/CoalescedSourceConfigs/Script/
+[2018.01.16-18.32.28:887][205]SourceControl: 	TestingGrounds_05/Saved/Autosaves/Game/
+[2018.01.16-18.32.28:888][205]SourceControl: 	TestingGrounds_05/Saved/Backup/FirstPersonExampleMap_2018-01-16-15-14-26.umap
+[2018.01.16-18.32.28:888][205]SourceControl: 	TestingGrounds_05/Saved/Backup/FirstPersonExampleMap_2018-01-16-15-27-47.umap
+[2018.01.16-18.32.28:888][205]SourceControl: 	TestingGrounds_05/Saved/Backup/ThirdPersonCharacter_2018-01-16-15-17-51.uasset
+[2018.01.16-18.32.28:888][205]SourceControl: 	TestingGrounds_05/Saved/Config/Windows/SourceControlSettings.ini
+[2018.01.16-18.32.29:173][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Patrol" FILE="../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/Patrol.uasset" SILENT=true
+[2018.01.16-18.32.29:178][205]LogSavePackage: Save=2.21ms
+[2018.01.16-18.32.29:178][205]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Patrol44857C5C484E2F74824938A6307F195A.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/Patrol.uasset'
+[2018.01.16-18.32.29:186][205]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/Patrol.uasset
+[2018.01.16-18.33.39:219][723]SourceControl: On branch master
+[2018.01.16-18.33.39:219][723]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2018.01.16-18.33.39:219][723]SourceControl: Changes to be committed:
+[2018.01.16-18.33.39:219][723]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.01.16-18.33.39:219][723]SourceControl: 	new file:   TestingGrounds_05/Content/Blueprints/NewBehaviorTree.uasset
+[2018.01.16-18.33.39:219][723]SourceControl: 	new file:   TestingGrounds_05/Content/Blueprints/Patrol.uasset
+[2018.01.16-18.33.39:219][723]SourceControl: 	new file:   TestingGrounds_05/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.16-18.33.39:220][723]SourceControl: 	new file:   TestingGrounds_05/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap
+[2018.01.16-18.33.39:220][723]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPerson.h
+[2018.01.16-18.33.39:220][723]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPersonCharacter.cpp
+[2018.01.16-18.33.39:220][723]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPersonCharacter.h
+[2018.01.16-18.33.39:220][723]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPersonGameMode.cpp
+[2018.01.16-18.33.39:220][723]SourceControl: 	new file:   TestingGrounds_05/Source/TestingGrounds_05/TP_ThirdPerson/TP_ThirdPersonGameMode.h
+[2018.01.16-18.33.39:220][723]SourceControl: Changes not staged for commit:
+[2018.01.16-18.33.39:221][723]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.01.16-18.33.39:221][723]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.16-18.33.39:221][723]SourceControl: 	modified:   TestingGrounds_05/Binaries/Win64/UE4Editor.modules
+[2018.01.16-18.33.39:221][723]SourceControl: 	modified:   TestingGrounds_05/Config/DefaultEngine.ini
+[2018.01.16-18.33.39:221][723]SourceControl: 	modified:   TestingGrounds_05/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.16-18.33.39:221][723]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/ActionHistory.bin
+[2018.01.16-18.33.39:221][723]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/DependencyCache.bin
+[2018.01.16-18.33.39:222][723]SourceControl: 	deleted:    TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/Development/Makefile.ubt
+[2018.01.16-18.33.39:222][723]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/Development/TestingGrounds_05Editor.uhtmanifest
+[2018.01.16-18.33.39:222][723]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/FlatCPPIncludes.bin
+[2018.01.16-18.33.39:222][723]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TestingGrounds_05.init.gen.cpp
+[2018.01.16-18.33.39:222][723]SourceControl: 	modified:   TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/Timestamp
+[2018.01.16-18.33.39:222][723]SourceControl: 	modified:   TestingGrounds_05/Intermediate/ProjectFiles/TestingGrounds_05.vcxproj
+[2018.01.16-18.33.39:222][723]SourceControl: 	modified:   TestingGrounds_05/Intermediate/ProjectFiles/TestingGrounds_05.vcxproj.filters
+[2018.01.16-18.33.39:223][723]SourceControl: 	modified:   TestingGrounds_05/Intermediate/ProjectFiles/UE4.vcxproj.filters
+[2018.01.16-18.33.39:223][723]SourceControl: 	modified:   TestingGrounds_05/Saved/Autosaves/PackageRestoreData.json
+[2018.01.16-18.33.39:223][723]SourceControl: 	modified:   TestingGrounds_05/Saved/Config/Windows/Editor.ini
+[2018.01.16-18.33.39:223][723]SourceControl: 	modified:   TestingGrounds_05/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.01.16-18.33.39:223][723]SourceControl: 	modified:   TestingGrounds_05/Saved/Config/Windows/Engine.ini
+[2018.01.16-18.33.39:223][723]SourceControl: 	modified:   TestingGrounds_05/Saved/Config/WorldState/412261283.json
+[2018.01.16-18.33.39:223][723]SourceControl: 	modified:   TestingGrounds_05/Saved/Logs/TestingGrounds_05.log
+[2018.01.16-18.33.39:223][723]SourceControl: Untracked files:
+[2018.01.16-18.33.39:223][723]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.16-18.33.39:223][723]SourceControl: 	TestingGrounds_05/Binaries/Win64/UE4Editor-TestingGrounds_05-8755.pdb
+[2018.01.16-18.33.39:224][723]SourceControl: 	TestingGrounds_05/Content/Mannequin/
+[2018.01.16-18.33.39:224][723]SourceControl: 	TestingGrounds_05/Content/ThirdPerson/
+[2018.01.16-18.33.39:224][723]SourceControl: 	TestingGrounds_05/Intermediate/AssetRegistryCache/311563bb.bin
+[2018.01.16-18.33.39:224][723]SourceControl: 	TestingGrounds_05/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.01.16-18.33.39:224][723]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/TestingGrounds_05Editor/Development/HotReloadMakefile.ubt
+[2018.01.16-18.33.39:224][723]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/TestingGrounds_05/TP_ThirdPersonCharacter.cpp.obj.response
+[2018.01.16-18.33.39:224][723]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/TestingGrounds_05/TP_ThirdPersonCharacter.gen.cpp.obj.response
+[2018.01.16-18.33.39:224][723]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/TestingGrounds_05/TP_ThirdPersonGameMode.cpp.obj.response
+[2018.01.16-18.33.39:225][723]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/TestingGrounds_05/TP_ThirdPersonGameMode.gen.cpp.obj.response
+[2018.01.16-18.33.39:225][723]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-TestingGrounds_05-8755.dll.response
+[2018.01.16-18.33.39:225][723]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-TestingGrounds_05-8755.exp
+[2018.01.16-18.33.39:225][723]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-TestingGrounds_05-8755.lib.response
+[2018.01.16-18.33.39:225][723]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-TestingGrounds_05-8755.suppressed.exp
+[2018.01.16-18.33.39:225][723]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TP_ThirdPersonCharacter.gen.cpp
+[2018.01.16-18.33.39:226][723]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TP_ThirdPersonCharacter.generated.h
+[2018.01.16-18.33.39:226][723]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TP_ThirdPersonGameMode.gen.cpp
+[2018.01.16-18.33.39:226][723]SourceControl: 	TestingGrounds_05/Intermediate/Build/Win64/UE4Editor/Inc/TestingGrounds_05/TP_ThirdPersonGameMode.generated.h
+[2018.01.16-18.33.39:226][723]SourceControl: 	TestingGrounds_05/Intermediate/Config/CoalescedSourceConfigs/Script/
+[2018.01.16-18.33.39:226][723]SourceControl: 	TestingGrounds_05/Saved/Autosaves/Game/
+[2018.01.16-18.33.39:226][723]SourceControl: 	TestingGrounds_05/Saved/Backup/FirstPersonExampleMap_2018-01-16-15-14-26.umap
+[2018.01.16-18.33.39:226][723]SourceControl: 	TestingGrounds_05/Saved/Backup/FirstPersonExampleMap_2018-01-16-15-27-47.umap
+[2018.01.16-18.33.39:226][723]SourceControl: 	TestingGrounds_05/Saved/Backup/ThirdPersonCharacter_2018-01-16-15-17-51.uasset
+[2018.01.16-18.33.39:226][723]SourceControl: 	TestingGrounds_05/Saved/Config/Windows/SourceControlSettings.ini
+[2018.01.16-18.33.39:494][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PatrolData" FILE="../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/PatrolData.uasset" SILENT=true
+[2018.01.16-18.33.39:499][723]LogSavePackage: Save=2.31ms
+[2018.01.16-18.33.39:500][723]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/PatrolData24CE4E184D88BA68F2A896B0258CBBEE.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/PatrolData.uasset'
+[2018.01.16-18.33.39:507][723]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/PatrolData.uasset
+[2018.01.16-18.34.29:926][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.34.29:932][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.16-18.34.29:932][666]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (Jan 16, 2018, 12:34:29 PM)
+[2018.01.16-18.34.29:932][666]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.16-18.34.29:957][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024286s)
+[2018.01.16-18.34.29:958][666]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.16-18.34.29:959][666]LogPlayLevel: PIE: World Init took: (0.001487s)
+[2018.01.16-18.34.29:959][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.026738s)
+[2018.01.16-18.34.30:033][666]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.16-18.34.30:089][666]LogInit: FAudioDevice initialized.
+[2018.01.16-18.34.30:132][666]LogLoad: Game class is 'TestingGrounds_05GameMode'
+[2018.01.16-18.34.30:141][666]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.01.16-15.34.30
+[2018.01.16-18.34.30:143][666]LogWorld: Bringing up level for play took: 0.009344
+[2018.01.16-18.34.30:148][666]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 1.2
+[2018.01.16-18.34.30:150][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.35.09:280][677]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.01.16-18.36.07:595][995]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.36.07:671][995]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.36.58:919][873]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/NPC_AI_BP.
+[2018.01.16-18.37.58:103][386]BlueprintLog: New page: Compilar NPC_AI_BP
+[2018.01.16-18.38.07:593][897]LogTextFormatter: Warning: Failed to parse argument "0 '{0" as a number (using "0" as a fallback). Please check your format string for errors: "Ninguna imagen en '{0 '{0}' ({1}x{2})".
+[2018.01.16-18.38.08:193][897]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.16-18.38.08:268][899]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TestingGrounds05
+[2018.01.16-18.38.08:268][899]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.16-18.38.08:268][899]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.01.16-18.38.08:268][899]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.16-18.38.08:276][899]LogTemp: BranchPath = LEONEL-ASUS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = LEONEL-ASUS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.16-18.38.08:300][899]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\admin\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.16-18.39.00:769][ 11]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.16-18.39.59:496][531]LogSavePackage: Save=585.53ms
+[2018.01.16-18.39.59:496][531]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/FirstPersonExampleMap_Auto36E85336047AEA80D63A0ADA813B20946.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2018.01.16-18.39.59:502][531]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto3.umap
+[2018.01.16-18.39.59:506][531]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.653
+[2018.01.16-18.39.59:507][531]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.653
+[2018.01.16-18.39.59:513][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NPC_AI_BP] ([1] browsable assets)...
+[2018.01.16-18.39.59:513][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NPC_AI_BP]
+[2018.01.16-18.39.59:533][531]LogSavePackage: Save=16.95ms
+[2018.01.16-18.39.59:533][531]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/NPC_AI_BP_Auto3F21AAEF04515A2F752F37A820EFF2486.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/Blueprints/NPC_AI_BP_Auto3.uasset'
+[2018.01.16-18.39.59:537][531]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/Blueprints/NPC_AI_BP_Auto3.uasset
+[2018.01.16-18.39.59:537][531]LogFileHelpers: Auto-saving content packages took 0.028
+[2018.01.16-18.41.42:953][842]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.01.16-18.41.52:046][322]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.16-18.42.00:094][784]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2018.01.16-18.43.29:333][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Patrol" FILE="../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/Patrol.uasset" SILENT=true
+[2018.01.16-18.43.29:352][486]LogSavePackage: Save=7.68ms
+[2018.01.16-18.43.29:352][486]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/PatrolD49A50FE42B406222D726FA47CA29A08.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/Patrol.uasset'
+[2018.01.16-18.43.29:363][486]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/Patrol.uasset
+[2018.01.16-18.43.33:280][644]LogSavePackage: Save=353.96ms
+[2018.01.16-18.43.33:280][644]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/FirstPersonExampleMap29CB06F94E0403062634F19F76154C5E.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.01.16-18.43.33:290][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap
+[2018.01.16-18.43.33:345][644]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.597
+[2018.01.16-18.43.33:407][644]LogSavePackage: Save=29.17ms
+[2018.01.16-18.43.33:407][644]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/ThirdPersonCharacterC4F80B3D434A34287FA82EBED594EF33.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.01.16-18.43.33:416][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.16-18.43.33:423][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC_AI_BP" FILE="../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/NPC_AI_BP.uasset" SILENT=true
+[2018.01.16-18.43.33:440][644]LogSavePackage: Save=14.31ms
+[2018.01.16-18.43.33:441][644]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/NPC_AI_BP3D3BB7DC47B14E4896800CB8FB0759CB.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/NPC_AI_BP.uasset'
+[2018.01.16-18.43.33:448][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/NPC_AI_BP.uasset
+[2018.01.16-18.43.34:138][647]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/NPC_AI_BP.
+[2018.01.16-18.44.42:556][963]LogWindows: LaunchFileInExternalEditor C:/Users/admin/Documents/Section05/TestingGrounds_05/Source/TestingGrounds_05/TestingGrounds_05GameMode.h 
+[2018.01.16-18.44.50:044][963]LogWindows: Launch application code for C:/Users/admin/Documents/Section05/TestingGrounds_05/Source/TestingGrounds_05/TestingGrounds_05GameMode.h : 42
+[2018.01.16-18.44.50:044][963]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.16-18.44.50:070][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:071][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:072][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:072][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:072][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:073][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:073][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:073][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:073][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:073][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:074][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:074][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:074][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:074][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:074][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:075][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:075][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:075][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:076][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:076][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:076][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:077][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:077][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:077][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:077][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:078][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:078][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:081][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:081][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:082][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:082][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:082][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:083][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:087][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:088][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:088][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:088][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:088][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:088][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:089][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:089][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:089][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:089][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:089][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:089][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:090][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:090][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:090][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:090][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:090][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:090][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:091][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:091][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:091][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:091][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:091][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:091][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:092][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:092][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:092][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:093][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:093][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:093][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:093][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:094][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:094][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:095][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:095][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:095][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:096][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:096][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:096][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:096][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:096][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:097][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:097][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:097][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:097][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:098][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:098][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:098][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:098][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:098][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:108][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:109][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:109][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:109][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:110][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:190][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:191][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:191][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:248][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:278][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:301][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:345][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:349][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:349][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:376][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.50:377][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.51:744][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.51:781][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.51:796][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.44.51:797][963]LogVSAccessor: Warning: Couldn't access module table
