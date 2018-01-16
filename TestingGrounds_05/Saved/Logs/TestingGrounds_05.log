@@ -1054,3 +1054,130 @@ LogInit: Object subsystem initialized
 [2018.01.16-18.44.51:781][963]LogVSAccessor: Warning: Couldn't access module table
 [2018.01.16-18.44.51:796][963]LogVSAccessor: Warning: Couldn't access module table
 [2018.01.16-18.44.51:797][963]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.16-18.45.44:053][773]SourceControl: rm 'TestingGrounds_05/Content/Blueprints/NewBehaviorTree.uasset'
+[2018.01.16-18.45.54:036][ 96]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.16-18.46.37:888][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PatrolData" FILE="../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/PatrolData.uasset" SILENT=true
+[2018.01.16-18.46.37:901][628]LogSavePackage: Save=3.54ms
+[2018.01.16-18.46.37:901][628]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/PatrolDataC22B4A3D426DA47746B79889297045B3.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/PatrolData.uasset'
+[2018.01.16-18.46.37:910][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/PatrolData.uasset
+[2018.01.16-18.49.07:782][ 89]BlueprintLog: New page: Compilar NPC_AI_BP
+[2018.01.16-18.49.38:291][822]BlueprintLog: New page: Compilar NPC_AI_BP
+[2018.01.16-18.49.43:695][119]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.49.43:706][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.16-18.49.43:707][119]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (Jan 16, 2018, 12:49:43 PM)
+[2018.01.16-18.49.43:707][119]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.16-18.49.43:741][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033413s)
+[2018.01.16-18.49.43:742][119]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.16-18.49.43:743][119]LogPlayLevel: PIE: World Init took: (0.001459s)
+[2018.01.16-18.49.43:743][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035917s)
+[2018.01.16-18.49.43:821][119]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.16-18.49.43:844][119]LogInit: FAudioDevice initialized.
+[2018.01.16-18.49.43:883][119]LogLoad: Game class is 'TestingGrounds_05GameMode'
+[2018.01.16-18.49.43:889][119]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.01.16-15.49.43
+[2018.01.16-18.49.43:891][119]LogWorld: Bringing up level for play took: 0.007040
+[2018.01.16-18.49.43:899][119]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.951
+[2018.01.16-18.49.43:900][119]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.49.46:520][273]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.49.46:568][273]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.50.06:480][396]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.50.06:489][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.16-18.50.06:489][396]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (Jan 16, 2018, 12:50:06 PM)
+[2018.01.16-18.50.06:489][396]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.16-18.50.06:510][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020483s)
+[2018.01.16-18.50.06:511][396]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.16-18.50.06:512][396]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2018.01.16-18.50.06:512][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.022664s)
+[2018.01.16-18.50.06:578][396]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.16-18.50.06:594][396]LogInit: FAudioDevice initialized.
+[2018.01.16-18.50.06:632][396]LogLoad: Game class is 'TestingGrounds_05GameMode'
+[2018.01.16-18.50.06:643][396]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.01.16-15.50.06
+[2018.01.16-18.50.06:646][396]LogWorld: Bringing up level for play took: 0.012151
+[2018.01.16-18.50.06:650][396]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.298
+[2018.01.16-18.50.06:652][396]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.50.10:671][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.50.10:719][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.53.15:044][174]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.16-18.55.52:319][596]BlueprintLog: New page: Compilar NPC_AI_BP
+[2018.01.16-18.55.52:329][596]LogBlueprint: Error: [Compiler NPC_AI_BP] This blueprint (self) is not a BlackboardComponent, therefore ' Meta ' must have a connection.
+[2018.01.16-18.55.52:602][596]LogBlueprint: Warning: [Compiler NPC_AI_BP] [6648.42] Compile of NPC_AI_BP failed. 1 Fatal Issue(s) 0 Warning(s) [in 283 ms] (/Game/Blueprints/NPC_AI_BP.NPC_AI_BP)
+[2018.01.16-18.56.41:662][538]BlueprintLog: New page: Compilar NPC_AI_BP
+[2018.01.16-18.56.50:660][ 49]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.56.50:670][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.16-18.56.50:670][ 49]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (Jan 16, 2018, 12:56:50 PM)
+[2018.01.16-18.56.50:670][ 49]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.16-18.56.50:697][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027188s)
+[2018.01.16-18.56.50:699][ 49]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.16-18.56.50:699][ 49]LogPlayLevel: PIE: World Init took: (0.001712s)
+[2018.01.16-18.56.50:700][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.029931s)
+[2018.01.16-18.56.50:776][ 49]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.16-18.56.50:807][ 49]LogInit: FAudioDevice initialized.
+[2018.01.16-18.56.50:846][ 49]LogLoad: Game class is 'TestingGrounds_05GameMode'
+[2018.01.16-18.56.50:849][ 49]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.01.16-15.56.50
+[2018.01.16-18.56.50:850][ 49]LogWorld: Bringing up level for play took: 0.004033
+[2018.01.16-18.56.50:852][ 49]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.096
+[2018.01.16-18.56.50:852][ 49]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.57.04:401][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Patrol" FILE="../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/Patrol.uasset" SILENT=true
+[2018.01.16-18.57.04:415][849]LogSavePackage: Save=7.12ms
+[2018.01.16-18.57.04:415][849]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Patrol9AE9D1AB4A489ED65D841A8A75B528E5.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/Patrol.uasset'
+[2018.01.16-18.57.04:423][849]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/Patrol.uasset
+[2018.01.16-18.57.25:793][122]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.57.25:841][122]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.57.31:199][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Patrol" FILE="../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/Patrol.uasset" SILENT=true
+[2018.01.16-18.57.31:213][435]LogSavePackage: Save=7.88ms
+[2018.01.16-18.57.31:213][435]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Patrol36F934864D2D3DCF20D1528275AC9A6B.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/Patrol.uasset'
+[2018.01.16-18.57.31:220][435]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/Patrol.uasset
+[2018.01.16-18.57.37:192][790]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.57.37:203][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.16-18.57.37:203][790]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (Jan 16, 2018, 12:57:37 PM)
+[2018.01.16-18.57.37:203][790]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.16-18.57.37:234][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030456s)
+[2018.01.16-18.57.37:235][790]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.16-18.57.37:236][790]LogPlayLevel: PIE: World Init took: (0.001391s)
+[2018.01.16-18.57.37:236][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.032994s)
+[2018.01.16-18.57.37:273][790]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.16-18.57.37:289][790]LogInit: FAudioDevice initialized.
+[2018.01.16-18.57.37:333][790]LogLoad: Game class is 'TestingGrounds_05GameMode'
+[2018.01.16-18.57.37:341][790]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.01.16-15.57.37
+[2018.01.16-18.57.37:342][790]LogWorld: Bringing up level for play took: 0.007258
+[2018.01.16-18.57.37:345][790]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.396
+[2018.01.16-18.57.37:345][790]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.57.47:332][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.57.47:380][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-18.58.28:128][370]LogSavePackage: Save=285.24ms
+[2018.01.16-18.58.28:128][370]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/FirstPersonExampleMap_Auto443BBA8AE4BD0B905BCC6CBA887BDAD4C.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2018.01.16-18.58.28:133][370]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto4.umap
+[2018.01.16-18.58.28:137][370]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.382
+[2018.01.16-18.58.28:137][370]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.382
+[2018.01.16-18.58.28:141][370]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NPC_AI_BP] ([1] browsable assets)...
+[2018.01.16-18.58.28:141][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NPC_AI_BP]
+[2018.01.16-18.58.28:168][370]LogSavePackage: Save=19.21ms
+[2018.01.16-18.58.28:169][370]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/NPC_AI_BP_Auto40F348F114CCCF41BC4FF5B9248B69040.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/Blueprints/NPC_AI_BP_Auto4.uasset'
+[2018.01.16-18.58.28:173][370]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/Blueprints/NPC_AI_BP_Auto4.uasset
+[2018.01.16-18.58.28:175][370]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PatrolData] ([1] browsable assets)...
+[2018.01.16-18.58.28:175][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PatrolData]
+[2018.01.16-18.58.28:185][370]LogSavePackage: Save=2.99ms
+[2018.01.16-18.58.28:186][370]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/PatrolData_Auto405EB7714489063DF7DECA5AC7989C8C6.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/Blueprints/PatrolData_Auto4.uasset'
+[2018.01.16-18.58.28:190][370]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/Blueprints/PatrolData_Auto4.uasset
+[2018.01.16-18.58.28:191][370]LogFileHelpers: Auto-saving content packages took 0.052
+[2018.01.16-19.06.03:108][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PatrolData" FILE="../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/PatrolData.uasset" SILENT=true
+[2018.01.16-19.06.03:123][880]LogSavePackage: Save=3.44ms
+[2018.01.16-19.06.03:123][880]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/PatrolData4E5ABF5C485C5E756C7E30A910C4A0E9.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/PatrolData.uasset'
+[2018.01.16-19.06.03:131][880]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/PatrolData.uasset
+[2018.01.16-19.09.18:617][ 93]BlueprintLog: New page: Compilar NPC_AI_BP
+[2018.01.16-19.09.25:078][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-19.09.25:090][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.16-19.09.25:090][447]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (Jan 16, 2018, 1:09:25 PM)
+[2018.01.16-19.09.25:091][447]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.16-19.09.25:116][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025438s)
+[2018.01.16-19.09.25:118][447]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.16-19.09.25:119][447]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2018.01.16-19.09.25:119][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028497s)
+[2018.01.16-19.09.25:167][447]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.16-19.09.25:189][447]LogInit: FAudioDevice initialized.
+[2018.01.16-19.09.25:223][447]LogLoad: Game class is 'TestingGrounds_05GameMode'
+[2018.01.16-19.09.25:227][447]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.01.16-16.09.25
+[2018.01.16-19.09.25:228][447]LogWorld: Bringing up level for play took: 0.004491
+[2018.01.16-19.09.25:230][447]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.282
+[2018.01.16-19.09.25:231][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-19.10.09:259][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.16-19.10.09:310][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
