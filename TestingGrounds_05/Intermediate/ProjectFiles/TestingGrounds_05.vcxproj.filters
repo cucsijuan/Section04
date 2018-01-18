@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\TestingGrounds_05.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{8BDAE294-3C1F-4B0D-B832-57A44A7B25D3}</UniqueIdentifier>
+			<UniqueIdentifier>{B6A9FC58-43F3-4BC8-B4EE-747F9A14B71A}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestingGrounds_05.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{9753841A-E760-4E88-A406-D80D66DD4BEC}</UniqueIdentifier>
+			<UniqueIdentifier>{A87FA22D-C000-4679-ADCB-F242F908A6FA}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\TestingGrounds_05">
-			<UniqueIdentifier>{9AD7419D-5E78-48E0-AB3F-759E067D3264}</UniqueIdentifier>
+			<UniqueIdentifier>{5E86F224-C65C-4210-AB2C-7F05FF4A80D7}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestingGrounds_05\TestingGrounds_05.Build.cs">
 			<Filter>Source\TestingGrounds_05</Filter>
@@ -66,8 +66,20 @@
 		<ClInclude Include="..\..\Source\TestingGrounds_05\TestingGrounds_05Projectile.h">
 			<Filter>Source\TestingGrounds_05</Filter>
 		</ClInclude >
+		<Filter Include="Source\TestingGrounds_05\Private">
+			<UniqueIdentifier>{9CA523A8-4C09-4A74-81AD-B93F8C5D82D7}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\TestingGrounds_05\Private\ChooseNextWaypoint.cpp">
+			<Filter>Source\TestingGrounds_05\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\TestingGrounds_05\Public">
+			<UniqueIdentifier>{B1E87B14-083E-402E-B14E-B18B02B2F69E}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\TestingGrounds_05\Public\ChooseNextWaypoint.h">
+			<Filter>Source\TestingGrounds_05\Public</Filter>
+		</ClInclude >
 		<Filter Include="Source\TestingGrounds_05\TP_ThirdPerson">
-			<UniqueIdentifier>{746DFDFD-BD71-4457-841D-08D89670EB63}</UniqueIdentifier>
+			<UniqueIdentifier>{8EDCCCF6-358C-4811-B368-6B8721FA1455}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="..\..\Source\TestingGrounds_05\TP_ThirdPerson\TP_ThirdPerson.h">
 			<Filter>Source\TestingGrounds_05\TP_ThirdPerson</Filter>

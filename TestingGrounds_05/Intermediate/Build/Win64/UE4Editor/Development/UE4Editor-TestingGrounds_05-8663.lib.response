@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TestingGrounds_05-8663.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\TestingGrounds_05.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\TestingGrounds_05Character.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\TestingGrounds_05GameMode.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\TestingGrounds_05HUD.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\TestingGrounds_05Projectile.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\ChooseNextWaypoint.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\TP_ThirdPersonCharacter.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\TP_ThirdPersonGameMode.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\ChooseNextWaypoint.gen.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\TestingGrounds_05.init.gen.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\TestingGrounds_05Character.gen.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\TestingGrounds_05GameMode.gen.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\TestingGrounds_05HUD.gen.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\TestingGrounds_05Projectile.gen.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\TP_ThirdPersonCharacter.gen.cpp.obj"
+"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\TP_ThirdPersonGameMode.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\TestingGrounds_05\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8663.lib"
