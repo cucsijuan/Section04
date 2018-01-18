@@ -42,6 +42,13 @@ void EmptyLinkFunctionForGeneratedCodeChooseNextWaypoint() {}
 			};
 #endif
 #if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_WaypointKey_MetaData[] = {
+				{ "Category", "Blackboard" },
+				{ "ModuleRelativePath", "Public/ChooseNextWaypoint.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FStructPropertyParams NewProp_WaypointKey = { UE4CodeGen_Private::EPropertyClass::Struct, "WaypointKey", RF_Public|RF_Transient|RF_MarkAsNative, 0x0020080000000001, 1, nullptr, STRUCT_OFFSET(UChooseNextWaypoint, WaypointKey), Z_Construct_UScriptStruct_FBlackboardKeySelector, METADATA_PARAMS(NewProp_WaypointKey_MetaData, ARRAY_COUNT(NewProp_WaypointKey_MetaData)) };
+#if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_IndexKey_MetaData[] = {
 				{ "Category", "Blackboard" },
 				{ "ModuleRelativePath", "Public/ChooseNextWaypoint.h" },
@@ -49,6 +56,7 @@ void EmptyLinkFunctionForGeneratedCodeChooseNextWaypoint() {}
 #endif
 			static const UE4CodeGen_Private::FStructPropertyParams NewProp_IndexKey = { UE4CodeGen_Private::EPropertyClass::Struct, "IndexKey", RF_Public|RF_Transient|RF_MarkAsNative, 0x0020080000000001, 1, nullptr, STRUCT_OFFSET(UChooseNextWaypoint, IndexKey), Z_Construct_UScriptStruct_FBlackboardKeySelector, METADATA_PARAMS(NewProp_IndexKey_MetaData, ARRAY_COUNT(NewProp_IndexKey_MetaData)) };
 			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_WaypointKey,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_IndexKey,
 			};
 			static const FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -69,7 +77,7 @@ void EmptyLinkFunctionForGeneratedCodeChooseNextWaypoint() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UChooseNextWaypoint, 571489407);
+	IMPLEMENT_CLASS(UChooseNextWaypoint, 542975284);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_UChooseNextWaypoint(Z_Construct_UClass_UChooseNextWaypoint, &UChooseNextWaypoint::StaticClass, TEXT("/Script/TestingGrounds_05"), TEXT("UChooseNextWaypoint"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UChooseNextWaypoint);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

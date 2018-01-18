@@ -1,0 +1,809 @@
+﻿Log file open, 01/18/18 13:36:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TestingGrounds_05
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-474235501) SRandInit(-474235501).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.172277
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Binaries/Win64/UE4Editor-TestingGrounds_05-8663.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.18-16.36.11:464][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.18-16.36.11:464][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.18-16.36.11:475][  0]LogInit: Computer: LEONEL-ASUS
+[2018.01.18-16.36.11:475][  0]LogInit: User: admin
+[2018.01.18-16.36.11:475][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.18-16.36.11:475][  0]LogInit: High frequency timer resolution =2.531250 MHz
+[2018.01.18-16.36.11:475][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.18-16.36.11:475][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.18-16.36.11:475][  0]LogMemory: Process Physical Memory: 271.73 MB used, 271.73 MB peak
+[2018.01.18-16.36.11:475][  0]LogMemory: Process Virtual Memory: 269.28 MB used, 269.28 MB peak
+[2018.01.18-16.36.11:475][  0]LogMemory: Physical Memory: 4440.56 MB used,  3643.71 MB free, 8084.27 MB total
+[2018.01.18-16.36.11:475][  0]LogMemory: Virtual Memory: 659.16 MB used,  3643.71 MB free, 134217728.00 MB total
+[2018.01.18-16.36.11:650][  0]LogInit: Using OS detected language (es-ES).
+[2018.01.18-16.36.11:650][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.18-16.36.11:653][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2018.01.18-16.36.11:834][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.18-16.36.12:196][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.18-16.36.12:237][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2018.01.18-16.36.12:237][  0]LogD3D11RHI:       2019/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.18-16.36.12:245][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.01.18-16.36.12:245][  0]LogD3D11RHI:       128/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.18-16.36.12:247][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.18-16.36.12:247][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.18-16.36.12:247][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.18-16.36.12:253][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.18-16.36.12:253][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2018.01.18-16.36.12:253][  0]LogWindows: EnumDisplayDevices:
+[2018.01.18-16.36.12:253][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.01.18-16.36.12:253][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.01.18-16.36.12:254][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.01.18-16.36.12:254][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.18-16.36.12:254][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2018.01.18-16.36.12:254][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.18-16.36.12:254][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.18-16.36.12:254][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.01.18-16.36.12:277][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.18-16.36.12:291][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.18-16.36.12:292][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Intermediate/Shaders/WorkingDirectory/15060/).
+[2018.01.18-16.36.12:292][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/admin/AppData/Local/Temp/UnrealShaderWorkingDir/8487F1B14D0333C696C8EEBCF339948C/'.
+[2018.01.18-16.36.12:292][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.18-16.36.13:662][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.18-16.36.13:743][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.18-16.36.13:808][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.18-16.36.13:873][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.18-16.36.13:939][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.18-16.36.14:002][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.18-16.36.14:065][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.18-16.36.14:130][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.18-16.36.14:186][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.18-16.36.14:248][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.18-16.36.14:311][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.18-16.36.14:374][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.18-16.36.14:442][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.18-16.36.14:512][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.18-16.36.14:661][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.18-16.36.14:661][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.18-16.36.14:733][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.18-16.36.14:789][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.18-16.36.14:903][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.18-16.36.14:945][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.18-16.36.15:009][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.18-16.36.15:070][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.18-16.36.15:136][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.18-16.36.15:198][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.18-16.36.15:198][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.18-16.36.15:765][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.18-16.36.15:836][  0]LogDerivedDataCache: Loaded boot cache 0.07s 79MB C:/Users/admin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.18-16.36.15:836][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/admin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.18-16.36.15:836][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.18-16.36.15:836][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.18-16.36.15:836][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.18-16.36.15:836][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.18-16.36.15:854][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.18-16.36.15:866][  0]LogDerivedDataCache: Using Local data cache path C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.18-16.36.15:877][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.18-16.36.15:878][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.18-16.36.15:878][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.18-16.36.15:878][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.18-16.36.16:307][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.18-16.36.16:724][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.18-16.36.16:777][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.18-16.36.16:777][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.18-16.36.16:777][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.18-16.36.16:777][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.18-16.36.16:777][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.18-16.36.16:815][  0]LogNetVersion: TestingGrounds_05 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1036634218)
+[2018.01.18-16.36.17:034][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2018.01.18-16.36.17:672][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.090349 seconds
+[2018.01.18-16.36.17:678][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.18-16.36.17:678][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.01.18-16.36.17:678][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.18-16.36.17:741][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.18-16.36.21:402][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.18-16.36.21:456][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.18-16.36.22:885][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.18-16.36.23:578][  0]SourceControl: El control de código fuente está desactivado
+[2018.01.18-16.36.25:267][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.18-16.36.25:629][  0]LogOcInput: OculusInput pre-init called
+[2018.01.18-16.36.25:972][  0]LogEngine: Initializing Engine...
+[2018.01.18-16.36.25:976][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.18-16.36.26:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.18-16.36.26:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.18-16.36.26:472][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.18-16.36.26:483][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.18-16.36.26:512][  0]LogInit: FAudioDevice initialized.
+[2018.01.18-16.36.26:655][  0]LogDerivedDataCache: Saved boot cache 0.14s 79MB C:/Users/admin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.18-16.36.26:668][  0]LogInit: Texture streaming: Enabled
+[2018.01.18-16.36.26:793][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.18-16.36.26:963][  0]LogInit: Transaction tracking system initialized
+[2018.01.18-16.36.27:386][  0]BlueprintLog: New page: Cargar el editor
+[2018.01.18-16.36.28:778][  0]LocalizationService: Localization service is disabled
+[2018.01.18-16.36.29:711][  0]LogConsoleResponse: Display: 
+[2018.01.18-16.36.29:959][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.18-16.36.29:959][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.18-16.36.29:960][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.18-16.36.30:925][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Section05/TestingGrounds_05/Content/' took 0.02s
+[2018.01.18-16.36.31:529][  0]Cmd: MAP LOAD FILE="../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.18-16.36.31:529][  0]LightingResults: New page: Diseñar la iluminación
+[2018.01.18-16.36.31:587][  0]MapCheck: New page: Revisión del mapa
+[2018.01.18-16.36.31:587][  0]LightingResults: New page: Diseñar la iluminación
+[2018.01.18-16.36.31:820][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.18-16.36.31:834][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.18-16.36.31:848][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.18-16.36.31:947][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 99.381ms to complete.
+[2018.01.18-16.36.31:947][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.419
+[2018.01.18-16.36.32:183][  0]LogCollectionManager: Loaded 0 collections in 0.003228 seconds
+[2018.01.18-16.36.32:288][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Section05/TestingGrounds_05/Saved/Collections/' took 0.01s
+[2018.01.18-16.36.32:288][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Section05/TestingGrounds_05/Content/Developers/admin/Collections/' took 0.01s
+[2018.01.18-16.36.32:288][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Section05/TestingGrounds_05/Content/Collections/' took 0.01s
+[2018.01.18-16.36.32:288][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.18-16.36.32:298][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2371 classes and 525 folders.
+[2018.01.18-16.36.32:378][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.01.18-16.36.32:434][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.01.18-16.36.32:652][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0023 seconds. Added 1 classes and 2 folders.
+[2018.01.18-16.36.32:653][  0]LogLoad: (Engine Initialization) Total time: 25.16 seconds
+[2018.01.18-16.36.32:653][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.18-16.36.32:653][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.18-16.36.33:011][  0]SourceControl: On branch master
+[2018.01.18-16.36.33:011][  0]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2018.01.18-16.36.33:011][  0]SourceControl: Changes not staged for commit:
+[2018.01.18-16.36.33:011][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.01.18-16.36.33:011][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.18-16.36.33:011][  0]SourceControl: 	modified:   TestingGrounds_05/Saved/Config/Windows/Engine.ini
+[2018.01.18-16.36.33:011][  0]SourceControl: 	modified:   TestingGrounds_05/Saved/Logs/TestingGrounds_05.log
+[2018.01.18-16.36.33:011][  0]SourceControl: Untracked files:
+[2018.01.18-16.36.33:012][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.18-16.36.33:012][  0]SourceControl: 	TestingGrounds_05/Saved/Config/CrashReportClient/UE4CC-Windows-8763BC674C0AEB2A9049A1B7C8787BB3/
+[2018.01.18-16.36.33:012][  0]SourceControl: 	TestingGrounds_05/Saved/Logs/TestingGrounds_05-backup-2018.01.18-13.36.08.log
+[2018.01.18-16.36.33:012][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.01.18-16.36.33:012][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.18-16.36.33:013][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.18-16.36.33:017][  0]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.18-16.36.33:021][  0]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.18-16.36.33:108][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.18-16.36.33:342][  1]LogRenderer: Reallocating scene render targets to support 664x288 Format 10 NumSamples 1 (Frame:1).
+[2018.01.18-16.36.33:342][  1]LogAssetRegistry: Asset discovery search completed in 16.3300 seconds
+[2018.01.18-16.36.33:345][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.18-16.36.33:345][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000093 seconds (updated 0 objects)
+[2018.01.18-16.36.36:813][  9]LogRenderer: Reallocating scene render targets to support 664x340 Format 10 NumSamples 1 (Frame:2).
+[2018.01.18-16.37.02:930][559]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.18-16.39.17:597][228]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.18-16.39.45:848][818]Running C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/admin/Documents/Section05/TestingGrounds_05/TestingGrounds_05.uproject" -game -rocket -progress
+[2018.01.18-16.39.46:259][818]Discovering modules, targets and source code for project...
+[2018.01.18-16.39.49:674][818]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.18-16.39.52:062][818]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.18-16.39.52:066][818]Candidate modules for hot reload:
+[2018.01.18-16.39.52:066][818]  TestingGrounds_05
+[2018.01.18-16.39.52:066][818]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe TestingGrounds_05 -ModuleWithSuffix TestingGrounds_05 1849 Win64 Development -editorrecompile -canskiplink "C:/Users/admin/Documents/Section05/TestingGrounds_05/TestingGrounds_05.uproject" ]
+[2018.01.18-16.40.29:043][818]CompilerResultsLog: New page: Compilación - Jan 18, 2018, 10:40:29 AM
+[2018.01.18-16.40.29:044][818]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.18-16.40.29:044][818]CompilerResultsLog: Creating makefile for hot reloading TestingGrounds_05 (new files with reflected types)
+[2018.01.18-16.40.29:044][818]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.18-16.40.29:044][818]CompilerResultsLog: Parsing headers for TestingGrounds_05Editor
+[2018.01.18-16.40.29:044][818]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\admin\Documents\Section05\TestingGrounds_05\TestingGrounds_05.uproject" "C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\TestingGrounds_05Editor\Development\TestingGrounds_05Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.01.18-16.40.29:044][818]CompilerResultsLog: Reflection code generated for TestingGrounds_05Editor in 9.6802362 seconds
+[2018.01.18-16.40.29:044][818]CompilerResultsLog: Performing 5 actions (2 in parallel)
+[2018.01.18-16.40.29:044][818]CompilerResultsLog: PatrollingGuard.gen.cpp
+[2018.01.18-16.40.29:044][818]CompilerResultsLog: TestingGrounds_05.init.gen.cpp
+[2018.01.18-16.40.29:044][818]CompilerResultsLog: PatrollingGuard.cpp
+[2018.01.18-16.40.29:044][818]CompilerResultsLog: [4/5] Link UE4Editor-TestingGrounds_05-1849.dll
+[2018.01.18-16.40.29:044][818]CompilerResultsLog: [5/5] Link UE4Editor-TestingGrounds_05-1849.lib
+[2018.01.18-16.40.29:044][818]CompilerResultsLog:    Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-1849.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-1849.exp
+[2018.01.18-16.40.29:044][818]CompilerResultsLog:    Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-1849.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-1849.suppressed.exp
+[2018.01.18-16.40.29:045][818]CompilerResultsLog: Total build time: 36.72 seconds (Local executor: 15.37 seconds)
+[2018.01.18-16.40.29:045][818]LogMainFrame: MainFrame: Module compiling took 36.982 seconds
+[2018.01.18-16.40.29:134][818]LogClass: Could not find existing class PatrollingGuard in package /Script/TestingGrounds_05 for HotReload, assuming new class
+[2018.01.18-16.40.29:145][818]LogContentBrowser: Native class hierarchy updated for 'TestingGrounds_05' in 0.0014 seconds. Added 8 classes and 4 folders.
+[2018.01.18-16.40.29:147][818]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2018.01.18-16.40.29:282][818]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2373 classes and 527 folders.
+[2018.01.18-16.40.29:283][818]Display: HotReload took 37.2s.
+[2018.01.18-16.40.29:285][818]Warning: HotReload operation took 37.2s.
+[2018.01.18-16.40.29:323][818]LogHotReload: New module detected: UE4Editor-TestingGrounds_05-1849.dll
+[2018.01.18-16.40.29:361][819]LogHotReload: Starting Hot-Reload from IDE
+[2018.01.18-16.40.29:463][819]LogContentBrowser: Native class hierarchy updated for 'TestingGrounds_05' in 0.0017 seconds. Added 8 classes and 4 folders.
+[2018.01.18-16.40.29:465][819]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.01.18-16.40.29:491][819]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2373 classes and 527 folders.
+[2018.01.18-16.40.29:496][819]Display: HotReload took  0.1s.
+[2018.01.18-16.41.56:197][ 79]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.18-16.41.56:527][ 80]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.18-16.41.56:875][ 81]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.18-16.41.57:207][ 82]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.18-16.41.57:529][ 83]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.18-16.41.57:865][ 84]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.18-16.41.58:201][ 85]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.18-16.41.58:538][ 86]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.18-16.42.03:017][ 87]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.18-16.42.04:096][ 87]LogWindows: LaunchFileInExternalEditor C:/Users/admin/Documents/Section05/TestingGrounds_05/Source/TestingGrounds_05/Public/ChooseNextWaypoint.h 
+[2018.01.18-16.42.09:088][ 87]LogWindows: Launch application code for C:/Users/admin/Documents/Section05/TestingGrounds_05/Source/TestingGrounds_05/Public/ChooseNextWaypoint.h : 42
+[2018.01.18-16.42.09:088][ 87]LogWindows: LaunchFileInExternalEditor C:/Users/admin/Documents/Section05/TestingGrounds_05/Source/TestingGrounds_05/Private/ChooseNextWaypoint.cpp 
+[2018.01.18-16.42.09:496][ 87]LogWindows: Launch application code for C:/Users/admin/Documents/Section05/TestingGrounds_05/Source/TestingGrounds_05/Private/ChooseNextWaypoint.cpp : 42
+[2018.01.18-16.42.09:496][ 87]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.18-16.42.09:501][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:501][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:501][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:501][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:501][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:501][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:501][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:502][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:502][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:502][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:502][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:502][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:502][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:502][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:502][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:503][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:503][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:503][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:503][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:503][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:503][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:503][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:503][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:504][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:504][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:504][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:504][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:504][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:504][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:504][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:504][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:504][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:504][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:504][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:505][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:505][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:505][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:505][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:505][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:505][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:505][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:505][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:505][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:505][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:505][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:506][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:506][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:506][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:506][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:506][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:506][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:506][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:506][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:506][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:506][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:506][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:506][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:507][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:507][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:507][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:507][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:507][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:507][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:507][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:507][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:507][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:507][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:508][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:508][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:508][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:508][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:508][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:508][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:508][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:508][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:508][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:509][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:509][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:509][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:509][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:509][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:509][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:509][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:511][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:512][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:512][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:512][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:512][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:514][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:514][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:514][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:552][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:558][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:567][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:568][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:570][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:570][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:583][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:606][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.09:606][ 87]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-16.42.48:658][309]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 116 classes and 0 folders.
+[2018.01.18-16.47.13:272][359]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.18-16.47.13:275][359]Candidate modules for hot reload:
+[2018.01.18-16.47.13:275][359]  TestingGrounds_05
+[2018.01.18-16.47.13:275][359]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe TestingGrounds_05 -ModuleWithSuffix TestingGrounds_05 1822 Win64 Development -editorrecompile -canskiplink "C:/Users/admin/Documents/Section05/TestingGrounds_05/TestingGrounds_05.uproject" ]
+[2018.01.18-16.47.13:282][359]Warning: Starting HotReload took  0.0s.
+[2018.01.18-16.47.47:393][326]CompilerResultsLog: New page: Compilación - Jan 18, 2018, 10:47:47 AM
+[2018.01.18-16.47.47:393][326]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.18-16.47.47:393][326]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.18-16.47.47:393][326]CompilerResultsLog: Parsing headers for TestingGrounds_05Editor
+[2018.01.18-16.47.47:393][326]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\admin\Documents\Section05\TestingGrounds_05\TestingGrounds_05.uproject" "C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\TestingGrounds_05Editor\Development\TestingGrounds_05Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.01.18-16.47.47:393][326]CompilerResultsLog: Reflection code generated for TestingGrounds_05Editor in 17.9155231 seconds
+[2018.01.18-16.47.47:393][326]CompilerResultsLog: Performing 5 actions (2 in parallel)
+[2018.01.18-16.47.47:393][326]CompilerResultsLog: PatrollingGuard.gen.cpp
+[2018.01.18-16.47.47:393][326]CompilerResultsLog: TestingGrounds_05.init.gen.cpp
+[2018.01.18-16.47.47:393][326]CompilerResultsLog: PatrollingGuard.cpp
+[2018.01.18-16.47.47:393][326]CompilerResultsLog: [4/5] Link UE4Editor-TestingGrounds_05-1822.dll
+[2018.01.18-16.47.47:393][326]CompilerResultsLog: [5/5] Link UE4Editor-TestingGrounds_05-1822.lib
+[2018.01.18-16.47.47:393][326]CompilerResultsLog:    Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-1822.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-1822.exp
+[2018.01.18-16.47.47:393][326]CompilerResultsLog:    Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-1822.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-1822.suppressed.exp
+[2018.01.18-16.47.47:393][326]CompilerResultsLog: Total build time: 33.69 seconds (Local executor: 13.02 seconds)
+[2018.01.18-16.47.47:393][326]LogMainFrame: MainFrame: Module compiling took 34.121 seconds
+[2018.01.18-16.47.47:663][326]LogClass: Could not find existing class PatrollingGuard in package /Script/TestingGrounds_05 for HotReload, assuming new class
+[2018.01.18-16.47.47:676][326]LogHotReload: Re-instancing PatrollingGuard after hot-reload.
+[2018.01.18-16.47.47:784][326]LogContentBrowser: Native class hierarchy updated for 'TestingGrounds_05' in 0.0015 seconds. Added 8 classes and 4 folders.
+[2018.01.18-16.47.47:787][326]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2018.01.18-16.47.48:143][326]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2373 classes and 527 folders.
+[2018.01.18-16.47.48:143][326]Display: HotReload took 34.9s.
+[2018.01.18-16.48.02:979][155]LogSlate: Took 0.005298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.18-16.48.14:927][871]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.18-16.48.23:771][398]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter from TP_ThirdPersonCharacter to PatrollingGuard...
+[2018.01.18-16.48.23:795][398]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2018.01.18-16.48.26:617][493]LogSavePackage: Save=41.69ms
+[2018.01.18-16.48.26:617][493]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/ThirdPersonCharacterE57ABE41470C05DA218E7C8D9C6C9C76.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.01.18-16.48.26:625][493]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.18-16.48.27:740][560]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2018.01.18-16.48.47:180][801]LogSlate: Took 0.003096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.18-16.48.56:568][986]LogSavePackage: Save=256.89ms
+[2018.01.18-16.48.56:569][986]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/FirstPersonExampleMap_Auto1E487DF6349FEB189BA56BCB1EBFC7372.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.01.18-16.48.56:572][986]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.01.18-16.48.56:578][986]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.348
+[2018.01.18-16.48.56:578][986]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.348
+[2018.01.18-16.53.35:848][922]LogHotReload: New module detected: UE4Editor-TestingGrounds_05-4994.dll
+[2018.01.18-16.53.36:530][925]LogHotReload: Starting Hot-Reload from IDE
+[2018.01.18-16.53.36:821][925]LogClass: Could not find existing class PatrollingGuard in package /Script/TestingGrounds_05 for HotReload, assuming new class
+[2018.01.18-16.53.36:835][925]LogHotReload: Re-instancing PatrollingGuard after hot-reload.
+[2018.01.18-16.53.37:556][925]LogContentBrowser: Native class hierarchy updated for 'TestingGrounds_05' in 0.0014 seconds. Added 8 classes and 4 folders.
+[2018.01.18-16.53.37:559][925]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2018.01.18-16.53.37:935][925]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2373 classes and 527 folders.
+[2018.01.18-16.53.37:938][925]Display: HotReload took  1.4s.
+[2018.01.18-16.58.58:860][  0]LogSavePackage: Save=266.19ms
+[2018.01.18-16.58.58:860][  0]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/FirstPersonExampleMap_Auto2143AD375428B1E91E599D28D60D13288.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2018.01.18-16.58.58:865][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap
+[2018.01.18-16.58.58:868][  0]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.382
+[2018.01.18-16.58.58:868][  0]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.382
+[2018.01.18-17.08.59:339][116]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.072
+[2018.01.18-17.08.59:344][116]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/ChooseNextWaypoint_BP] ([1] browsable assets)...
+[2018.01.18-17.08.59:344][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ChooseNextWaypoint_BP]
+[2018.01.18-17.08.59:446][116]LogSavePackage: Save=60.42ms
+[2018.01.18-17.08.59:446][116]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/ChooseNextWaypoint_BP_Auto3A01A371649DCD4EDC52B4F9668A60E2E.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/Blueprints/ChooseNextWaypoint_BP_Auto3.uasset'
+[2018.01.18-17.08.59:450][116]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/Blueprints/ChooseNextWaypoint_BP_Auto3.uasset
+[2018.01.18-17.08.59:450][116]LogFileHelpers: Auto-saving content packages took 0.109
+[2018.01.18-17.10.10:618][288]LogSlate: Took 0.003228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.18-17.10.19:848][784]BlueprintLog: New page: Compilar ChooseNextWaypoint_BP
+[2018.01.18-17.10.19:879][784]LogBlueprint: Error: [Compiler ChooseNextWaypoint_BP] Pin  Output  named Output doesn't match any parameters of function Get Patrol Points
+[2018.01.18-17.10.19:915][784]LogBlueprint: Warning: [Compiler ChooseNextWaypoint_BP] [2052.42] Compile of ChooseNextWaypoint_BP failed. 1 Fatal Issue(s) 0 Warning(s) [in 67 ms] (/Game/Blueprints/ChooseNextWaypoint_BP.ChooseNextWaypoint_BP)
+[2018.01.18-17.10.57:179][687]BlueprintLog: New page: Compilar ChooseNextWaypoint_BP
+[2018.01.18-17.14.32:050][376]LogSavePackage: Save=242.37ms
+[2018.01.18-17.14.32:050][376]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/FirstPersonExampleMap6E9E4C8A48D3B07534FD149BE43E238E.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.01.18-17.14.32:058][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap
+[2018.01.18-17.14.32:088][376]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.457
+[2018.01.18-17.14.32:091][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ChooseNextWaypoint_BP" FILE="../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/ChooseNextWaypoint_BP.uasset" SILENT=true
+[2018.01.18-17.14.32:139][376]LogSavePackage: Save=37.07ms
+[2018.01.18-17.14.32:139][376]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/ChooseNextWaypoint_BP42F926E04EACECD8BAC0EEA5057C8FC3.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/ChooseNextWaypoint_BP.uasset'
+[2018.01.18-17.14.32:147][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Content/Blueprints/ChooseNextWaypoint_BP.uasset
+[2018.01.18-17.14.33:655][461]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.18-17.14.33:658][461]Candidate modules for hot reload:
+[2018.01.18-17.14.33:658][461]  TestingGrounds_05
+[2018.01.18-17.14.33:659][461]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe TestingGrounds_05 -ModuleWithSuffix TestingGrounds_05 5702 Win64 Development -editorrecompile -canskiplink "C:/Users/admin/Documents/Section05/TestingGrounds_05/TestingGrounds_05.uproject" ]
+[2018.01.18-17.14.33:665][461]Warning: Starting HotReload took  0.0s.
+[2018.01.18-17.15.04:043][232]CompilerResultsLog: New page: Compilación - Jan 18, 2018, 11:15:04 AM
+[2018.01.18-17.15.04:044][232]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.18-17.15.04:044][232]CompilerResultsLog: Creating makefile for hot reloading TestingGrounds_05 (modules to compile have changed)
+[2018.01.18-17.15.04:044][232]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.18-17.15.04:044][232]CompilerResultsLog: Parsing headers for TestingGrounds_05Editor
+[2018.01.18-17.15.04:044][232]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\admin\Documents\Section05\TestingGrounds_05\TestingGrounds_05.uproject" "C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\TestingGrounds_05Editor\Development\TestingGrounds_05Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.01.18-17.15.04:044][232]CompilerResultsLog: Error: C:/Users/admin/Documents/Section05/TestingGrounds_05/Source/TestingGrounds_05/Public/PatrollingGuard.h(19)  : Error: Unrecognized type 'public' - type must be a UCLASS, USTRUCT or UENUM
+[2018.01.18-17.15.04:044][232]CompilerResultsLog: Error: UnrealHeaderTool failed for target 'TestingGrounds_05Editor' (platform: Win64, module info: C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\TestingGrounds_05Editor\Development\TestingGrounds_05Editor.uhtmanifest, exit code: OtherCompilationError (5)).
+[2018.01.18-17.15.04:044][232]LogMainFrame: MainFrame: Module compiling took 30.389 seconds
+[2018.01.18-17.15.04:044][232]Warning: HotReload failed, recompile failed
+[2018.01.18-17.15.41:428][816]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.18-17.15.41:765][817]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.18-17.15.42:094][818]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.18-17.15.42:427][819]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.18-17.15.47:159][831]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.18-17.16.32:973][686]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.18-17.16.32:978][686]Candidate modules for hot reload:
+[2018.01.18-17.16.32:978][686]  TestingGrounds_05
+[2018.01.18-17.16.32:978][686]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe TestingGrounds_05 -ModuleWithSuffix TestingGrounds_05 5365 Win64 Development -editorrecompile -canskiplink "C:/Users/admin/Documents/Section05/TestingGrounds_05/TestingGrounds_05.uproject" ]
+[2018.01.18-17.16.32:984][686]Warning: Starting HotReload took  0.0s.
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: New page: Compilación - Jan 18, 2018, 11:17:22 AM
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: Creating makefile for hot reloading TestingGrounds_05 (modules to compile have changed)
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: Compiling game modules for hot reload
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: Parsing headers for TestingGrounds_05Editor
+[2018.01.18-17.17.22:935][480]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\admin\Documents\Section05\TestingGrounds_05\TestingGrounds_05.uproject" "C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\TestingGrounds_05Editor\Development\TestingGrounds_05Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: Reflection code generated for TestingGrounds_05Editor in 17.639499 seconds
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: Performing 7 actions (2 in parallel)
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: TestingGrounds_05.init.gen.cpp
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: ChooseNextWaypoint.gen.cpp
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: PatrollingGuard.gen.cpp
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: PatrollingGuard.cpp
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: ChooseNextWaypoint.cpp
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: [6/7] Link UE4Editor-TestingGrounds_05-5365.dll
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: [7/7] Link UE4Editor-TestingGrounds_05-5365.lib
+[2018.01.18-17.17.22:935][480]CompilerResultsLog:    Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-5365.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-5365.exp
+[2018.01.18-17.17.22:935][480]CompilerResultsLog:    Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-5365.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-5365.suppressed.exp
+[2018.01.18-17.17.22:935][480]CompilerResultsLog: Total build time: 49.60 seconds (Local executor: 19.61 seconds)
+[2018.01.18-17.17.22:936][480]LogMainFrame: MainFrame: Module compiling took 49.962 seconds
+[2018.01.18-17.17.23:207][480]LogClass: Could not find existing class ChooseNextWaypoint in package /Script/TestingGrounds_05 for HotReload, assuming new class
+[2018.01.18-17.17.23:207][480]LogClass: Could not find existing class PatrollingGuard in package /Script/TestingGrounds_05 for HotReload, assuming new class
+[2018.01.18-17.17.23:221][480]LogHotReload: Re-instancing ChooseNextWaypoint after hot-reload.
+[2018.01.18-17.17.23:323][480]LogHotReload: Re-instancing PatrollingGuard after hot-reload.
+[2018.01.18-17.17.24:042][480]LogContentBrowser: Native class hierarchy updated for 'TestingGrounds_05' in 0.0016 seconds. Added 8 classes and 4 folders.
+[2018.01.18-17.17.24:044][480]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2018.01.18-17.17.24:433][480]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2373 classes and 527 folders.
+[2018.01.18-17.17.24:433][480]Display: HotReload took 51.5s.
+[2018.01.18-17.20.12:171][469]LogWindows: LaunchFileInExternalEditor C:/Users/admin/Documents/Section05/TestingGrounds_05/Source/TestingGrounds_05/Public/PatrollingGuard.h 
+[2018.01.18-17.20.15:517][469]LogWindows: Launch application code for C:/Users/admin/Documents/Section05/TestingGrounds_05/Source/TestingGrounds_05/Public/PatrollingGuard.h : 42
+[2018.01.18-17.20.15:517][469]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.18-17.20.15:525][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:525][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:525][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:525][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:525][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:525][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:525][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:525][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:525][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:525][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:526][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:526][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:526][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:526][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:526][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:526][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:526][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:526][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:526][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:526][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:526][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:526][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:527][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:527][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:527][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:527][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:527][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:527][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:527][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:527][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:527][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:527][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:528][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:528][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:528][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:528][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:528][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:528][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:528][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:528][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:528][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:528][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:528][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:528][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:528][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:529][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:529][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:529][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:529][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:529][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:529][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:529][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:529][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:529][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:529][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:530][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:530][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:530][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:530][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:530][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:530][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:530][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:531][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:531][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:531][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:531][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:531][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:531][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:531][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:531][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:531][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:531][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:531][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:531][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:531][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:532][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:532][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:532][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:532][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:532][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:532][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:532][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:532][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:534][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:535][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:535][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:535][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:535][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:537][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:538][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:538][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:560][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:563][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:571][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:572][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:574][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:574][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:585][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:602][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.20.15:602][469]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.18-17.35.16:895][794]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.084
+[2018.01.18-17.35.16:900][794]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Patrol] ([1] browsable assets)...
+[2018.01.18-17.35.16:900][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Patrol]
+[2018.01.18-17.35.16:933][794]LogSavePackage: Save=10.24ms
+[2018.01.18-17.35.16:933][794]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Patrol_Auto4D1949F354DC5A51CBDB1D1B34ED77CEB.tmp' to '../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/Blueprints/Patrol_Auto4.uasset'
+[2018.01.18-17.35.16:937][794]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Section05/TestingGrounds_05/Saved/Autosaves/Game/Blueprints/Patrol_Auto4.uasset
+[2018.01.18-17.35.16:937][794]LogFileHelpers: Auto-saving content packages took 0.041
+[2018.01.18-17.37.36:004][211]LogHotReload: New module detected: UE4Editor-TestingGrounds_05-7470.dll
+[2018.01.18-17.37.37:024][215]LogHotReload: Starting Hot-Reload from IDE
+[2018.01.18-17.37.37:287][215]LogContentBrowser: Native class hierarchy updated for 'TestingGrounds_05' in 0.0014 seconds. Added 8 classes and 4 folders.
+[2018.01.18-17.37.37:289][215]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2018.01.18-17.37.37:694][215]LogContentBrowser: Native class hierarchy populated in 0.0150 seconds. Added 2373 classes and 527 folders.
+[2018.01.18-17.37.37:697][215]Display: HotReload took  0.7s.
+[2018.01.18-17.38.11:721][814]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.18-17.38.11:727][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.18-17.38.11:731][814]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (Jan 18, 2018, 11:38:11 AM)
+[2018.01.18-17.38.11:731][814]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.18-17.38.11:768][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036529s)
+[2018.01.18-17.38.11:770][814]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.18-17.38.11:771][814]LogPlayLevel: PIE: World Init took: (0.002377s)
+[2018.01.18-17.38.11:772][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.040000s)
+[2018.01.18-17.38.11:891][814]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.18-17.38.11:944][814]LogInit: FAudioDevice initialized.
+[2018.01.18-17.38.12:002][814]LogLoad: Game class is 'TestingGrounds_05GameMode'
+[2018.01.18-17.38.12:035][814]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.01.18-14.38.12
+[2018.01.18-17.38.12:065][814]LogWorld: Bringing up level for play took: 0.042393
+[2018.01.18-17.38.12:225][814]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 11 classes and 0 folders.
+[2018.01.18-17.38.12:238][814]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 1.318
+[2018.01.18-17.38.12:238][814]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.18-17.38.12:264][814]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
+[2018.01.18-17.38.14:171][814]LogWindows: Error: === Critical error: ===
+[2018.01.18-17.38.14:171][814]LogWindows: Error: 
+[2018.01.18-17.38.14:171][814]LogWindows: Error: Assertion failed: (Index >= 0) & (Index < ArrayNum) [File:C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Containers/Array.h] [Line: 610] 
+[2018.01.18-17.38.14:171][814]LogWindows: Error: Array index out of bounds: 0 from an array of size 0
+[2018.01.18-17.38.14:171][814]LogWindows: Error: 
+[2018.01.18-17.38.14:171][814]LogWindows: Error: 
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x000000003E8D3FB8 KERNELBASE.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000214476D4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000ED0F330B UE4Editor-Core.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000ED0847F9 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x000000000CA779A4 UE4Editor-TestingGrounds_05-7470.dll!UChooseNextWaypoint::ExecuteTask() [c:\users\admin\documents\section05\testinggrounds_05\source\testinggrounds_05\private\choosenextwaypoint.cpp:18]
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000E80B92E7 UE4Editor-AIModule.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000E80D7C5A UE4Editor-AIModule.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000E80F02E5 UE4Editor-AIModule.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000EA9D4BC7 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000EAA012D4 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000EB639A2B UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000EB63DB5B UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000ECF54845 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000ECF54E2A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000ECF7589E UE4Editor-Core.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000EB657C61 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000EB65C482 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000EAF4D0F4 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000EAF566E8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000E8BE6B83 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x00000000E9494926 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x000000001F6E5A26 UE4Editor.exe!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x000000001F6F5430 UE4Editor.exe!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x000000001F6F54AA UE4Editor.exe!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x000000001F702379 UE4Editor.exe!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x000000001F703D57 UE4Editor.exe!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x000000003FDA1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x000000004252EF91 ntdll.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: [Callstack] 0x000000004252EF91 ntdll.dll!UnknownFunction []
+[2018.01.18-17.38.14:171][814]LogWindows: Error: 
+[2018.01.18-17.38.14:187][814]LogExit: Executing StaticShutdownAfterError
+[2018.01.18-17.38.14:225][814]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.01.18-17.38.14:225][814]Log file closed, 01/18/18 14:38:14

@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\TestingGrounds_05.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{B6A9FC58-43F3-4BC8-B4EE-747F9A14B71A}</UniqueIdentifier>
+			<UniqueIdentifier>{3F1560A4-66E4-41F4-9630-3EB7358C2093}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestingGrounds_05.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{A87FA22D-C000-4679-ADCB-F242F908A6FA}</UniqueIdentifier>
+			<UniqueIdentifier>{4FBB22BF-81B7-44D0-9497-AAC6D9051B5A}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\TestingGrounds_05">
-			<UniqueIdentifier>{5E86F224-C65C-4210-AB2C-7F05FF4A80D7}</UniqueIdentifier>
+			<UniqueIdentifier>{DEA9E3C1-9C0F-42C1-B57C-AED07BE17925}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestingGrounds_05\TestingGrounds_05.Build.cs">
 			<Filter>Source\TestingGrounds_05</Filter>
@@ -67,19 +67,25 @@
 			<Filter>Source\TestingGrounds_05</Filter>
 		</ClInclude >
 		<Filter Include="Source\TestingGrounds_05\Private">
-			<UniqueIdentifier>{9CA523A8-4C09-4A74-81AD-B93F8C5D82D7}</UniqueIdentifier>
+			<UniqueIdentifier>{5F7D9778-4C3B-4B82-BE6D-2D82A547BF0D}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\TestingGrounds_05\Private\ChooseNextWaypoint.cpp">
 			<Filter>Source\TestingGrounds_05\Private</Filter>
 		</ClCompile >
+		<ClCompile Include="..\..\Source\TestingGrounds_05\Private\PatrollingGuard.cpp">
+			<Filter>Source\TestingGrounds_05\Private</Filter>
+		</ClCompile >
 		<Filter Include="Source\TestingGrounds_05\Public">
-			<UniqueIdentifier>{B1E87B14-083E-402E-B14E-B18B02B2F69E}</UniqueIdentifier>
+			<UniqueIdentifier>{983A8405-FA88-41C7-B725-DD437359878A}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="..\..\Source\TestingGrounds_05\Public\ChooseNextWaypoint.h">
 			<Filter>Source\TestingGrounds_05\Public</Filter>
 		</ClInclude >
+		<ClInclude Include="..\..\Source\TestingGrounds_05\Public\PatrollingGuard.h">
+			<Filter>Source\TestingGrounds_05\Public</Filter>
+		</ClInclude >
 		<Filter Include="Source\TestingGrounds_05\TP_ThirdPerson">
-			<UniqueIdentifier>{8EDCCCF6-358C-4811-B368-6B8721FA1455}</UniqueIdentifier>
+			<UniqueIdentifier>{75830823-7DAC-47E5-B227-702D8ABA53F9}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="..\..\Source\TestingGrounds_05\TP_ThirdPerson\TP_ThirdPerson.h">
 			<Filter>Source\TestingGrounds_05\TP_ThirdPerson</Filter>

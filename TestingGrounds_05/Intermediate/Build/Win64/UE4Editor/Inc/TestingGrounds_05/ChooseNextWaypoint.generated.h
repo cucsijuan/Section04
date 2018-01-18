@@ -62,7 +62,8 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UChooseNextWaypoint); \
 
 
 #define TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__IndexKey() { return STRUCT_OFFSET(UChooseNextWaypoint, IndexKey); }
+	FORCEINLINE static uint32 __PPO__IndexKey() { return STRUCT_OFFSET(UChooseNextWaypoint, IndexKey); } \
+	FORCEINLINE static uint32 __PPO__WaypointKey() { return STRUCT_OFFSET(UChooseNextWaypoint, WaypointKey); }
 
 
 #define TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_14_PROLOG

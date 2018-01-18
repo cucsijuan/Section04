@@ -1,38 +1,10 @@
-﻿  Cleaning TestingGrounds_05Editor Binaries...
-  Using 'git status' to determine working set for adaptive non-unity build.
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
   Compiling game modules for hot reload
-EXEC : error : Unable to delete C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05.dll (Acceso denegado a la ruta de acceso 'C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05.dll'.)
-  Using 'git status' to determine working set for adaptive non-unity build.
-  Creating makefile for hot reloading TestingGrounds_05Editor (no existing makefile)
-  Compiling game modules for hot reload
-  Performing full C++ include scan (no include cache file)
-  Parsing headers for TestingGrounds_05Editor
-    Running UnrealHeaderTool "C:\Users\admin\Documents\Section05\TestingGrounds_05\TestingGrounds_05.uproject" "C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\TestingGrounds_05Editor\Development\TestingGrounds_05Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for TestingGrounds_05Editor in 12.7465402 seconds
-  Performing 21 actions (2 in parallel)
-  [2/21] Resource PCLaunch.rc
-  [3/21] Resource ModuleVersionResource.rc.inl
-  SharedPCH.Engine.cpp
-  ChooseNextWaypoint.gen.cpp
-  TestingGrounds_05Projectile.gen.cpp
-  TestingGrounds_05HUD.gen.cpp
-  TestingGrounds_05GameMode.gen.cpp
-  TestingGrounds_05Character.gen.cpp
-  TestingGrounds_05.init.gen.cpp
-  TP_ThirdPersonGameMode.cpp
-  TP_ThirdPersonCharacter.cpp
+  Performing 3 actions (2 in parallel)
   ChooseNextWaypoint.cpp
-  TestingGrounds_05Projectile.cpp
-  TestingGrounds_05HUD.cpp
-  TestingGrounds_05GameMode.cpp
-  TestingGrounds_05Character.cpp
-  TestingGrounds_05.cpp
-  TP_ThirdPersonCharacter.gen.cpp
-  TP_ThirdPersonGameMode.gen.cpp
-  [20/21] Link UE4Editor-TestingGrounds_05-8663.dll
-  [21/21] Link UE4Editor-TestingGrounds_05-8663.lib
-     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8663.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8663.exp
-     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8663.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8663.suppressed.exp
+  [2/3] Link UE4Editor-TestingGrounds_05-8432.dll
+  [3/3] Link UE4Editor-TestingGrounds_05-8432.lib
+     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8432.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8432.exp
+     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8432.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8432.suppressed.exp
   Deploying TestingGrounds_05Editor Win64 Development...
-  Total build time: 74.34 seconds (Local executor: 46.52 seconds)
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(49,5): error MSB3073: El comando ""C:\Program Files\Epic Games\UE_4.18\Engine\Build\BatchFiles\Rebuild.bat" TestingGrounds_05Editor Win64 Development "C:\Users\admin\Documents\Section05\TestingGrounds_05\TestingGrounds_05.uproject" -waitmutex" salió con el código -1.
+  Total build time: 29.57 seconds (Local executor: 27.84 seconds)
