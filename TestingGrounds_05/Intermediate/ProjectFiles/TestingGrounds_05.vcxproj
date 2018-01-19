@@ -428,8 +428,10 @@
 		<ClInclude Include="..\..\Source\TestingGrounds_05\TestingGrounds_05Projectile.h" />
 		<ClCompile Include="..\..\Source\TestingGrounds_05\Private\ChooseNextWaypoint.cpp" />
 		<ClCompile Include="..\..\Source\TestingGrounds_05\Private\PatrollingGuard.cpp" />
+		<ClCompile Include="..\..\Source\TestingGrounds_05\Private\PatrolRoute.cpp" />
 		<ClInclude Include="..\..\Source\TestingGrounds_05\Public\ChooseNextWaypoint.h" />
 		<ClInclude Include="..\..\Source\TestingGrounds_05\Public\PatrollingGuard.h" />
+		<ClInclude Include="..\..\Source\TestingGrounds_05\Public\PatrolRoute.h" />
 		<ClInclude Include="..\..\Source\TestingGrounds_05\TP_ThirdPerson\TP_ThirdPerson.h" />
 		<ClCompile Include="..\..\Source\TestingGrounds_05\TP_ThirdPerson\TP_ThirdPersonCharacter.cpp" />
 		<ClInclude Include="..\..\Source\TestingGrounds_05\TP_ThirdPerson\TP_ThirdPersonCharacter.h" />
