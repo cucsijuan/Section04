@@ -41,6 +41,7 @@ void EmptyLinkFunctionForGeneratedCodePatrolRoute() {}
 				{ "ClassGroupNames", "Custom" },
 				{ "IncludePath", "PatrolRoute.h" },
 				{ "ModuleRelativePath", "Public/PatrolRoute.h" },
+				{ "ToolTip", "A \"Route card\" to help AI choose their next waypoint" },
 			};
 #endif
 #if WITH_METADATA
@@ -73,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodePatrolRoute() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UPatrolRoute, 3263139062);
+	IMPLEMENT_CLASS(UPatrolRoute, 1106402549);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_UPatrolRoute(Z_Construct_UClass_UPatrolRoute, &UPatrolRoute::StaticClass, TEXT("/Script/TestingGrounds_05"), TEXT("UPatrolRoute"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UPatrolRoute);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

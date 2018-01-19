@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TESTINGGROUNDS_05_PatrolRoute_generated_h
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_RPC_WRAPPERS
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_RPC_WRAPPERS_NO_PURE_DECLS
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_INCLASS_NO_PURE_DECLS \
+#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_RPC_WRAPPERS
+#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUPatrolRoute(); \
 	friend TESTINGGROUNDS_05_API class UClass* Z_Construct_UClass_UPatrolRoute(); \
@@ -25,7 +25,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_INCLASS \
+#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesUPatrolRoute(); \
 	friend TESTINGGROUNDS_05_API class UClass* Z_Construct_UClass_UPatrolRoute(); \
@@ -35,7 +35,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_STANDARD_CONSTRUCTORS \
+#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UPatrolRoute(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UPatrolRoute) \
@@ -48,7 +48,7 @@ private: \
 public:
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_ENHANCED_CONSTRUCTORS \
+#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UPatrolRoute(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -61,29 +61,29 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UPatrolRoute); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UPatrolRoute)
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_PRIVATE_PROPERTY_OFFSET \
+#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__PatrolPoints() { return STRUCT_OFFSET(UPatrolRoute, PatrolPoints); }
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_10_PROLOG
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_GENERATED_BODY_LEGACY \
+#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_12_PROLOG
+#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_PRIVATE_PROPERTY_OFFSET \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_RPC_WRAPPERS \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_INCLASS \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_STANDARD_CONSTRUCTORS \
+	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_PRIVATE_PROPERTY_OFFSET \
+	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_RPC_WRAPPERS \
+	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_INCLASS \
+	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_GENERATED_BODY \
+#define TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_PRIVATE_PROPERTY_OFFSET \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_INCLASS_NO_PURE_DECLS \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_13_ENHANCED_CONSTRUCTORS \
+	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_PRIVATE_PROPERTY_OFFSET \
+	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_INCLASS_NO_PURE_DECLS \
+	TestingGrounds_05_Source_TestingGrounds_05_Public_PatrolRoute_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

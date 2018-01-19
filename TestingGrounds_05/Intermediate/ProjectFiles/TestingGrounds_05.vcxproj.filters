@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\TestingGrounds_05.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{3D3422AF-1A9F-4993-BEB5-69D83C7702AE}</UniqueIdentifier>
+			<UniqueIdentifier>{58A183F9-ACEF-47E4-AACD-4A7FA32919D4}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestingGrounds_05.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{31CEBC32-AAB8-4337-A433-400A8EB60B42}</UniqueIdentifier>
+			<UniqueIdentifier>{9E8F8146-A6FB-4A4A-B479-63E8C876C5F6}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\TestingGrounds_05">
-			<UniqueIdentifier>{E0AFDB70-1BC8-4E03-B30E-ED55E649FE83}</UniqueIdentifier>
+			<UniqueIdentifier>{0B89C69F-4547-4D80-99E0-A3EDEDC0BBC0}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestingGrounds_05\TestingGrounds_05.Build.cs">
 			<Filter>Source\TestingGrounds_05</Filter>
@@ -67,31 +67,25 @@
 			<Filter>Source\TestingGrounds_05</Filter>
 		</ClInclude >
 		<Filter Include="Source\TestingGrounds_05\Private">
-			<UniqueIdentifier>{35990EB9-1EDD-4D32-B515-45C051A8FCC7}</UniqueIdentifier>
+			<UniqueIdentifier>{0494BB21-7B99-4522-97C1-FAFE5CDC85D4}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\TestingGrounds_05\Private\ChooseNextWaypoint.cpp">
-			<Filter>Source\TestingGrounds_05\Private</Filter>
-		</ClCompile >
-		<ClCompile Include="..\..\Source\TestingGrounds_05\Private\PatrollingGuard.cpp">
 			<Filter>Source\TestingGrounds_05\Private</Filter>
 		</ClCompile >
 		<ClCompile Include="..\..\Source\TestingGrounds_05\Private\PatrolRoute.cpp">
 			<Filter>Source\TestingGrounds_05\Private</Filter>
 		</ClCompile >
 		<Filter Include="Source\TestingGrounds_05\Public">
-			<UniqueIdentifier>{E9823E98-A05E-46D4-ACA9-A9DE1FF90CC7}</UniqueIdentifier>
+			<UniqueIdentifier>{5BDB918E-F9C1-482E-A9BC-0D0EB9B33E7E}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="..\..\Source\TestingGrounds_05\Public\ChooseNextWaypoint.h">
-			<Filter>Source\TestingGrounds_05\Public</Filter>
-		</ClInclude >
-		<ClInclude Include="..\..\Source\TestingGrounds_05\Public\PatrollingGuard.h">
 			<Filter>Source\TestingGrounds_05\Public</Filter>
 		</ClInclude >
 		<ClInclude Include="..\..\Source\TestingGrounds_05\Public\PatrolRoute.h">
 			<Filter>Source\TestingGrounds_05\Public</Filter>
 		</ClInclude >
 		<Filter Include="Source\TestingGrounds_05\TP_ThirdPerson">
-			<UniqueIdentifier>{F864C009-6812-45C3-AE4B-1A04534C78D6}</UniqueIdentifier>
+			<UniqueIdentifier>{AE6D130B-66AE-4977-B3BB-9EFDD990F01E}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="..\..\Source\TestingGrounds_05\TP_ThirdPerson\TP_ThirdPerson.h">
 			<Filter>Source\TestingGrounds_05\TP_ThirdPerson</Filter>
