@@ -25,7 +25,6 @@
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source"
 /I C:\Users\admin\Documents\Section05\TestingGrounds_05\Source
-/I C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05\Public
 /I C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Inc\TestingGrounds_05
 /I C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public"

@@ -1,8 +1,6 @@
-C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05\Public\ChooseNextWaypoint.h
-C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05\Public\PatrolRoute.h
-C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05\TP_ThirdPerson\TP_ThirdPersonCharacter.h
-C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05\TP_ThirdPerson\TP_ThirdPersonGameMode.h
-C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05\TestingGrounds_05Character.h
+C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05\NPC\ChooseNextWaypoint.h
+C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05\NPC\PatrolRoute.h
+C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05\Player\FirstPersonCharacter.h
+C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05\Weapons\BallProjectile.h
 C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05\TestingGrounds_05GameMode.h
 C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05\TestingGrounds_05HUD.h
-C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05\TestingGrounds_05Projectile.h

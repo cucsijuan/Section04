@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TESTINGGROUNDS_05_ChooseNextWaypoint_generated_h
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_RPC_WRAPPERS
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_RPC_WRAPPERS_NO_PURE_DECLS
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_INCLASS_NO_PURE_DECLS \
+#define TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_RPC_WRAPPERS
+#define TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_RPC_WRAPPERS_NO_PURE_DECLS
+#define TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUChooseNextWaypoint(); \
 	friend TESTINGGROUNDS_05_API class UClass* Z_Construct_UClass_UChooseNextWaypoint(); \
@@ -25,7 +25,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_INCLASS \
+#define TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_INCLASS \
 private: \
 	static void StaticRegisterNativesUChooseNextWaypoint(); \
 	friend TESTINGGROUNDS_05_API class UClass* Z_Construct_UClass_UChooseNextWaypoint(); \
@@ -35,7 +35,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_STANDARD_CONSTRUCTORS \
+#define TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UChooseNextWaypoint(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UChooseNextWaypoint) \
@@ -48,7 +48,7 @@ private: \
 public:
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_ENHANCED_CONSTRUCTORS \
+#define TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UChooseNextWaypoint(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -61,36 +61,36 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UChooseNextWaypoint); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UChooseNextWaypoint)
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_PRIVATE_PROPERTY_OFFSET \
+#define TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__IndexKey() { return STRUCT_OFFSET(UChooseNextWaypoint, IndexKey); } \
 	FORCEINLINE static uint32 __PPO__WaypointKey() { return STRUCT_OFFSET(UChooseNextWaypoint, WaypointKey); }
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_14_PROLOG
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_GENERATED_BODY_LEGACY \
+#define TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_14_PROLOG
+#define TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_PRIVATE_PROPERTY_OFFSET \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_RPC_WRAPPERS \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_INCLASS \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_STANDARD_CONSTRUCTORS \
+	TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_PRIVATE_PROPERTY_OFFSET \
+	TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_RPC_WRAPPERS \
+	TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_INCLASS \
+	TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_GENERATED_BODY \
+#define TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_PRIVATE_PROPERTY_OFFSET \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_INCLASS_NO_PURE_DECLS \
-	TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h_17_ENHANCED_CONSTRUCTORS \
+	TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_PRIVATE_PROPERTY_OFFSET \
+	TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_INCLASS_NO_PURE_DECLS \
+	TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID TestingGrounds_05_Source_TestingGrounds_05_Public_ChooseNextWaypoint_h
+#define CURRENT_FILE_ID TestingGrounds_05_Source_TestingGrounds_05_NPC_ChooseNextWaypoint_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

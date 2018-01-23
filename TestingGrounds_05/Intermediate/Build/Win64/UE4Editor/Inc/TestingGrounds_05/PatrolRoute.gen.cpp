@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "GeneratedCppIncludes.h"
-#include "Public/PatrolRoute.h"
+#include "NPC/PatrolRoute.h"
 #ifdef _MSC_VER
 #pragma warning (push)
 #pragma warning (disable : 4883)
@@ -39,15 +39,15 @@ void EmptyLinkFunctionForGeneratedCodePatrolRoute() {}
 			static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
 				{ "BlueprintSpawnableComponent", "" },
 				{ "ClassGroupNames", "Custom" },
-				{ "IncludePath", "PatrolRoute.h" },
-				{ "ModuleRelativePath", "Public/PatrolRoute.h" },
+				{ "IncludePath", "NPC/PatrolRoute.h" },
+				{ "ModuleRelativePath", "NPC/PatrolRoute.h" },
 				{ "ToolTip", "A \"Route card\" to help AI choose their next waypoint" },
 			};
 #endif
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_PatrolPoints_MetaData[] = {
 				{ "Category", "Patrol Route CPP" },
-				{ "ModuleRelativePath", "Public/PatrolRoute.h" },
+				{ "ModuleRelativePath", "NPC/PatrolRoute.h" },
 			};
 #endif
 			static const UE4CodeGen_Private::FArrayPropertyParams NewProp_PatrolPoints = { UE4CodeGen_Private::EPropertyClass::Array, "PatrolPoints", RF_Public|RF_Transient|RF_MarkAsNative, 0x0040000000000801, 1, nullptr, STRUCT_OFFSET(UPatrolRoute, PatrolPoints), METADATA_PARAMS(NewProp_PatrolPoints_MetaData, ARRAY_COUNT(NewProp_PatrolPoints_MetaData)) };
@@ -74,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodePatrolRoute() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UPatrolRoute, 1106402549);
+	IMPLEMENT_CLASS(UPatrolRoute, 4104850573);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_UPatrolRoute(Z_Construct_UClass_UPatrolRoute, &UPatrolRoute::StaticClass, TEXT("/Script/TestingGrounds_05"), TEXT("UPatrolRoute"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UPatrolRoute);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

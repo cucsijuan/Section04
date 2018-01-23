@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "GeneratedCppIncludes.h"
-#include "Public/ChooseNextWaypoint.h"
+#include "NPC/ChooseNextWaypoint.h"
 #ifdef _MSC_VER
 #pragma warning (push)
 #pragma warning (disable : 4883)
@@ -37,21 +37,21 @@ void EmptyLinkFunctionForGeneratedCodeChooseNextWaypoint() {}
 			};
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
-				{ "IncludePath", "ChooseNextWaypoint.h" },
-				{ "ModuleRelativePath", "Public/ChooseNextWaypoint.h" },
+				{ "IncludePath", "NPC/ChooseNextWaypoint.h" },
+				{ "ModuleRelativePath", "NPC/ChooseNextWaypoint.h" },
 			};
 #endif
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_WaypointKey_MetaData[] = {
 				{ "Category", "Blackboard" },
-				{ "ModuleRelativePath", "Public/ChooseNextWaypoint.h" },
+				{ "ModuleRelativePath", "NPC/ChooseNextWaypoint.h" },
 			};
 #endif
 			static const UE4CodeGen_Private::FStructPropertyParams NewProp_WaypointKey = { UE4CodeGen_Private::EPropertyClass::Struct, "WaypointKey", RF_Public|RF_Transient|RF_MarkAsNative, 0x0020080000000001, 1, nullptr, STRUCT_OFFSET(UChooseNextWaypoint, WaypointKey), Z_Construct_UScriptStruct_FBlackboardKeySelector, METADATA_PARAMS(NewProp_WaypointKey_MetaData, ARRAY_COUNT(NewProp_WaypointKey_MetaData)) };
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_IndexKey_MetaData[] = {
 				{ "Category", "Blackboard" },
-				{ "ModuleRelativePath", "Public/ChooseNextWaypoint.h" },
+				{ "ModuleRelativePath", "NPC/ChooseNextWaypoint.h" },
 			};
 #endif
 			static const UE4CodeGen_Private::FStructPropertyParams NewProp_IndexKey = { UE4CodeGen_Private::EPropertyClass::Struct, "IndexKey", RF_Public|RF_Transient|RF_MarkAsNative, 0x0020080000000001, 1, nullptr, STRUCT_OFFSET(UChooseNextWaypoint, IndexKey), Z_Construct_UScriptStruct_FBlackboardKeySelector, METADATA_PARAMS(NewProp_IndexKey_MetaData, ARRAY_COUNT(NewProp_IndexKey_MetaData)) };
@@ -77,7 +77,7 @@ void EmptyLinkFunctionForGeneratedCodeChooseNextWaypoint() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UChooseNextWaypoint, 542975284);
+	IMPLEMENT_CLASS(UChooseNextWaypoint, 2235081449);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_UChooseNextWaypoint(Z_Construct_UClass_UChooseNextWaypoint, &UChooseNextWaypoint::StaticClass, TEXT("/Script/TestingGrounds_05"), TEXT("UChooseNextWaypoint"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UChooseNextWaypoint);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

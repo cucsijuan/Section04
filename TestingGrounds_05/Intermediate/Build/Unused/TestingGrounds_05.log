@@ -1,0 +1,11 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for hot reloading TestingGrounds_05Editor (modules to compile have changed)
+  Compiling game modules for hot reload
+  Performing 3 actions (2 in parallel)
+  TestingGrounds_05GameMode.cpp
+  [2/3] Link UE4Editor-TestingGrounds_05-8366.dll
+  [3/3] Link UE4Editor-TestingGrounds_05-8366.lib
+     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8366.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8366.exp
+     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8366.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8366.suppressed.exp
+  Deploying TestingGrounds_05Editor Win64 Development...
+  Total build time: 33.37 seconds (Local executor: 20.53 seconds)
