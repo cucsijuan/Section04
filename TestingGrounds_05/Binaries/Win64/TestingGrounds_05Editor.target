@@ -16,15 +16,15 @@
 	},
 	"BuildProducts": [
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-TestingGrounds_05-6044.dll",
+			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-TestingGrounds_05-1993.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-TestingGrounds_05-6044.pdb",
+			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-TestingGrounds_05-1993.pdb",
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-TestingGrounds_05-6044.lib",
+			"Path": "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-TestingGrounds_05-1993.lib",
 			"Type": "ImportLibrary"
 		},
 		{
