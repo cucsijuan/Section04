@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TESTINGGROUNDS_05_FirstPersonCharacter_generated_h
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_RPC_WRAPPERS
-#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS
-#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_INCLASS_NO_PURE_DECLS \
+#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_RPC_WRAPPERS
+#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAFirstPersonCharacter(); \
 	friend TESTINGGROUNDS_05_API class UClass* Z_Construct_UClass_AFirstPersonCharacter(); \
@@ -25,7 +25,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_INCLASS \
+#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesAFirstPersonCharacter(); \
 	friend TESTINGGROUNDS_05_API class UClass* Z_Construct_UClass_AFirstPersonCharacter(); \
@@ -35,7 +35,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_STANDARD_CONSTRUCTORS \
+#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AFirstPersonCharacter(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AFirstPersonCharacter) \
@@ -48,7 +48,7 @@ private: \
 public:
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_ENHANCED_CONSTRUCTORS \
+#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AFirstPersonCharacter(AFirstPersonCharacter&&); \
@@ -59,7 +59,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AFirstPersonCharacter); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AFirstPersonCharacter)
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_PRIVATE_PROPERTY_OFFSET \
+#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__Mesh1P() { return STRUCT_OFFSET(AFirstPersonCharacter, Mesh1P); } \
 	FORCEINLINE static uint32 __PPO__VR_Gun() { return STRUCT_OFFSET(AFirstPersonCharacter, VR_Gun); } \
 	FORCEINLINE static uint32 __PPO__VR_MuzzleLocation() { return STRUCT_OFFSET(AFirstPersonCharacter, VR_MuzzleLocation); } \
@@ -68,25 +68,25 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AFirstPersonCharacter); \
 	FORCEINLINE static uint32 __PPO__L_MotionController() { return STRUCT_OFFSET(AFirstPersonCharacter, L_MotionController); }
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_11_PROLOG
-#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_GENERATED_BODY_LEGACY \
+#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_12_PROLOG
+#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_PRIVATE_PROPERTY_OFFSET \
-	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_RPC_WRAPPERS \
-	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_INCLASS \
-	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_STANDARD_CONSTRUCTORS \
+	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_PRIVATE_PROPERTY_OFFSET \
+	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_RPC_WRAPPERS \
+	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_INCLASS \
+	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_GENERATED_BODY \
+#define TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_PRIVATE_PROPERTY_OFFSET \
-	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_INCLASS_NO_PURE_DECLS \
-	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_14_ENHANCED_CONSTRUCTORS \
+	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_PRIVATE_PROPERTY_OFFSET \
+	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_INCLASS_NO_PURE_DECLS \
+	TestingGrounds_05_Source_TestingGrounds_05_Player_FirstPersonCharacter_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

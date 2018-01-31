@@ -17,6 +17,8 @@ void EmptyLinkFunctionForGeneratedCodeFirstPersonCharacter() {}
 	TESTINGGROUNDS_05_API UClass* Z_Construct_UClass_AFirstPersonCharacter();
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	UPackage* Z_Construct_UPackage__Script_TestingGrounds_05();
+	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
+	TESTINGGROUNDS_05_API UClass* Z_Construct_UClass_AGun_NoRegister();
 	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 	HEADMOUNTEDDISPLAY_API UClass* Z_Construct_UClass_UMotionControllerComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
@@ -46,6 +48,14 @@ void EmptyLinkFunctionForGeneratedCodeFirstPersonCharacter() {}
 				{ "ModuleRelativePath", "Player/FirstPersonCharacter.h" },
 			};
 #endif
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_GunBlueprint_MetaData[] = {
+				{ "Category", "Setup" },
+				{ "ModuleRelativePath", "Player/FirstPersonCharacter.h" },
+				{ "ToolTip", "Gun Blueprint to attach on Actor" },
+			};
+#endif
+			static const UE4CodeGen_Private::FClassPropertyParams NewProp_GunBlueprint = { UE4CodeGen_Private::EPropertyClass::Class, "GunBlueprint", RF_Public|RF_Transient|RF_MarkAsNative, 0x0014000000010001, 1, nullptr, STRUCT_OFFSET(AFirstPersonCharacter, GunBlueprint), Z_Construct_UClass_AGun_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(NewProp_GunBlueprint_MetaData, ARRAY_COUNT(NewProp_GunBlueprint_MetaData)) };
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bUsingMotionControllers_MetaData[] = {
 				{ "Category", "Gameplay" },
@@ -137,6 +147,7 @@ void EmptyLinkFunctionForGeneratedCodeFirstPersonCharacter() {}
 #endif
 			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_Mesh1P = { UE4CodeGen_Private::EPropertyClass::Object, "Mesh1P", RF_Public|RF_Transient|RF_MarkAsNative, 0x00400000000b0009, 1, nullptr, STRUCT_OFFSET(AFirstPersonCharacter, Mesh1P), Z_Construct_UClass_USkeletalMeshComponent_NoRegister, METADATA_PARAMS(NewProp_Mesh1P_MetaData, ARRAY_COUNT(NewProp_Mesh1P_MetaData)) };
 			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_GunBlueprint,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_bUsingMotionControllers,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_GunOffset,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_BaseLookUpRate,
@@ -166,7 +177,7 @@ void EmptyLinkFunctionForGeneratedCodeFirstPersonCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AFirstPersonCharacter, 151306321);
+	IMPLEMENT_CLASS(AFirstPersonCharacter, 4254907307);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AFirstPersonCharacter(Z_Construct_UClass_AFirstPersonCharacter, &AFirstPersonCharacter::StaticClass, TEXT("/Script/TestingGrounds_05"), TEXT("AFirstPersonCharacter"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AFirstPersonCharacter);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
