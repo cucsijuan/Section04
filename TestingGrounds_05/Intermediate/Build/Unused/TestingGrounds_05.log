@@ -1,10 +1,25 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build.
   Compiling game modules for hot reload
-  Performing 3 actions (2 in parallel)
+  Performing 18 actions (2 in parallel)
+  TestingGrounds_05.init.gen.cpp
+  BallProjectile.gen.cpp
+  PatrolRoute.gen.cpp
+  Gun.gen.cpp
+  FirstPersonCharacter.gen.cpp
+  ChooseNextWaypoint.gen.cpp
+  Gun.cpp
+  BallProjectile.cpp
+  FirstPersonCharacter.cpp
+  PatrolRoute.cpp
+  ChooseNextWaypoint.cpp
+  TestingGrounds_05HUD.cpp
   TestingGrounds_05GameMode.cpp
-  [2/3] Link UE4Editor-TestingGrounds_05-4836.dll
-  [3/3] Link UE4Editor-TestingGrounds_05-4836.lib
-     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-4836.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-4836.exp
-     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-4836.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-4836.suppressed.exp
+  TestingGrounds_05.cpp
+  TestingGrounds_05GameMode.gen.cpp
+  TestingGrounds_05HUD.gen.cpp
+  [17/18] Link UE4Editor-TestingGrounds_05-5417.dll
+  [18/18] Link UE4Editor-TestingGrounds_05-5417.lib
+     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-5417.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-5417.exp
+     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-5417.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-5417.suppressed.exp
   Deploying TestingGrounds_05Editor Win64 Development...
-  Total build time: 26.25 seconds (Local executor: 23.88 seconds)
+  Total build time: 27.71 seconds (Local executor: 25.55 seconds)
