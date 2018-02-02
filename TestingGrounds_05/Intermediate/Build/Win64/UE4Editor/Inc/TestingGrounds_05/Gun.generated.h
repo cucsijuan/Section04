@@ -13,8 +13,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TESTINGGROUNDS_05_Gun_generated_h
 
-#define TestingGrounds_05_Source_TestingGrounds_05_Weapons_Gun_h_12_RPC_WRAPPERS
-#define TestingGrounds_05_Source_TestingGrounds_05_Weapons_Gun_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define TestingGrounds_05_Source_TestingGrounds_05_Weapons_Gun_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execOnFire) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->OnFire(); \
+		P_NATIVE_END; \
+	}
+
+
+#define TestingGrounds_05_Source_TestingGrounds_05_Weapons_Gun_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnFire) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->OnFire(); \
+		P_NATIVE_END; \
+	}
+
+
 #define TestingGrounds_05_Source_TestingGrounds_05_Weapons_Gun_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAGun(); \

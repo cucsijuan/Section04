@@ -16,6 +16,7 @@ public:
 	AGun();
 
 	/** Fires a projectile. */
+	UFUNCTION(BlueprintCallable, Category = "Actions")
 	void OnFire();
 
 	/** Gun mesh: 1st person view (seen only by self) */

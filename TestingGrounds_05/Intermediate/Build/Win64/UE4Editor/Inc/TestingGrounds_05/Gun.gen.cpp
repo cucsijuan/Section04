@@ -17,6 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeGun() {}
 	TESTINGGROUNDS_05_API UClass* Z_Construct_UClass_AGun();
 	ENGINE_API UClass* Z_Construct_UClass_AActor();
 	UPackage* Z_Construct_UPackage__Script_TestingGrounds_05();
+	TESTINGGROUNDS_05_API UFunction* Z_Construct_UFunction_AGun_OnFire();
 	ENGINE_API UClass* Z_Construct_UClass_UAnimInstance_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UAnimMontage_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USoundBase_NoRegister();
@@ -27,6 +28,28 @@ void EmptyLinkFunctionForGeneratedCodeGun() {}
 // End Cross Module References
 	void AGun::StaticRegisterNativesAGun()
 	{
+		UClass* Class = AGun::StaticClass();
+		static const FNameNativePtrPair Funcs[] = {
+			{ "OnFire", (Native)&AGun::execOnFire },
+		};
+		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
+	}
+	UFunction* Z_Construct_UFunction_AGun_OnFire()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+				{ "Category", "Actions" },
+				{ "ModuleRelativePath", "Weapons/Gun.h" },
+				{ "ToolTip", "Fires a projectile." },
+			};
+#endif
+			static const UE4CodeGen_Private::FFunctionParams FuncParams = { (UObject*(*)())Z_Construct_UClass_AGun, "OnFire", RF_Public|RF_Transient|RF_MarkAsNative, nullptr, (EFunctionFlags)0x04020401, 0, nullptr, 0, 0, 0, METADATA_PARAMS(Function_MetaDataParams, ARRAY_COUNT(Function_MetaDataParams)) };
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, FuncParams);
+		}
+		return ReturnFunction;
 	}
 	UClass* Z_Construct_UClass_AGun_NoRegister()
 	{
@@ -40,6 +63,9 @@ void EmptyLinkFunctionForGeneratedCodeGun() {}
 			static UObject* (*const DependentSingletons[])() = {
 				(UObject* (*)())Z_Construct_UClass_AActor,
 				(UObject* (*)())Z_Construct_UPackage__Script_TestingGrounds_05,
+			};
+			static const FClassFunctionLinkInfo FuncInfo[] = {
+				{ &Z_Construct_UFunction_AGun_OnFire, "OnFire" }, // 3685450680
 			};
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
@@ -112,7 +138,7 @@ void EmptyLinkFunctionForGeneratedCodeGun() {}
 				&AGun::StaticClass,
 				DependentSingletons, ARRAY_COUNT(DependentSingletons),
 				0x00900080u,
-				nullptr, 0,
+				FuncInfo, ARRAY_COUNT(FuncInfo),
 				PropPointers, ARRAY_COUNT(PropPointers),
 				nullptr,
 				&StaticCppClassTypeInfo,
@@ -123,7 +149,7 @@ void EmptyLinkFunctionForGeneratedCodeGun() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AGun, 2992136136);
+	IMPLEMENT_CLASS(AGun, 1605989186);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AGun(Z_Construct_UClass_AGun, &AGun::StaticClass, TEXT("/Script/TestingGrounds_05"), TEXT("AGun"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AGun);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

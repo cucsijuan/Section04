@@ -1,25 +1,16 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build.
   Compiling game modules for hot reload
-  Performing 18 actions (2 in parallel)
-  TestingGrounds_05.init.gen.cpp
-  BallProjectile.gen.cpp
-  PatrolRoute.gen.cpp
+  Parsing headers for TestingGrounds_05Editor
+    Running UnrealHeaderTool "C:\Users\admin\Documents\Section05\TestingGrounds_05\TestingGrounds_05.uproject" "C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\TestingGrounds_05Editor\Development\TestingGrounds_05Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for TestingGrounds_05Editor in 14.4188155 seconds
+  Performing 6 actions (2 in parallel)
   Gun.gen.cpp
-  FirstPersonCharacter.gen.cpp
-  ChooseNextWaypoint.gen.cpp
+  TestingGrounds_05.init.gen.cpp
   Gun.cpp
-  BallProjectile.cpp
   FirstPersonCharacter.cpp
-  PatrolRoute.cpp
-  ChooseNextWaypoint.cpp
-  TestingGrounds_05HUD.cpp
-  TestingGrounds_05GameMode.cpp
-  TestingGrounds_05.cpp
-  TestingGrounds_05GameMode.gen.cpp
-  TestingGrounds_05HUD.gen.cpp
-  [17/18] Link UE4Editor-TestingGrounds_05-5417.dll
-  [18/18] Link UE4Editor-TestingGrounds_05-5417.lib
-     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-5417.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-5417.exp
-     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-5417.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-5417.suppressed.exp
+  [5/6] Link UE4Editor-TestingGrounds_05-9851.dll
+  [6/6] Link UE4Editor-TestingGrounds_05-9851.lib
+     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-9851.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-9851.exp
+     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-9851.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-9851.suppressed.exp
   Deploying TestingGrounds_05Editor Win64 Development...
-  Total build time: 27.71 seconds (Local executor: 25.55 seconds)
+  Total build time: 35.84 seconds (Local executor: 18.83 seconds)
