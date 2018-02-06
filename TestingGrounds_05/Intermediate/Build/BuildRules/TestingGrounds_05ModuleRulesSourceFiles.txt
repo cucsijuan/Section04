@@ -1,3 +1,0 @@
-C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05\TestingGrounds_05.Build.cs
-C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05.Target.cs
-C:\Users\admin\Documents\Section05\TestingGrounds_05\Source\TestingGrounds_05Editor.Target.cs
