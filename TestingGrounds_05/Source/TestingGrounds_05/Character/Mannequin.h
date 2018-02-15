@@ -26,6 +26,8 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
+	virtual void UnPossessed() override;
+
 	/** Gun Blueprint to attach on Actor */
 	UPROPERTY(EditDefaultsOnly, Category = "Setup")
 	TSubclassOf<class AGun> GunBlueprint;
