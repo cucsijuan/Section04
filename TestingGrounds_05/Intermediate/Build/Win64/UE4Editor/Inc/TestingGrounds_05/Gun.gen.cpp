@@ -74,21 +74,33 @@ void EmptyLinkFunctionForGeneratedCodeGun() {}
 			};
 #endif
 #if WITH_METADATA
-			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_AnimInstance_MetaData[] = {
-				{ "Category", "Gameplay" },
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_AnimInstance3P_MetaData[] = {
+				{ "ModuleRelativePath", "Weapons/Gun.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_AnimInstance3P = { UE4CodeGen_Private::EPropertyClass::Object, "AnimInstance3P", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000000, 1, nullptr, STRUCT_OFFSET(AGun, AnimInstance3P), Z_Construct_UClass_UAnimInstance_NoRegister, METADATA_PARAMS(NewProp_AnimInstance3P_MetaData, ARRAY_COUNT(NewProp_AnimInstance3P_MetaData)) };
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_AnimInstance1P_MetaData[] = {
 				{ "ModuleRelativePath", "Weapons/Gun.h" },
 				{ "ToolTip", "Anim Instance to use" },
 			};
 #endif
-			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_AnimInstance = { UE4CodeGen_Private::EPropertyClass::Object, "AnimInstance", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000005, 1, nullptr, STRUCT_OFFSET(AGun, AnimInstance), Z_Construct_UClass_UAnimInstance_NoRegister, METADATA_PARAMS(NewProp_AnimInstance_MetaData, ARRAY_COUNT(NewProp_AnimInstance_MetaData)) };
+			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_AnimInstance1P = { UE4CodeGen_Private::EPropertyClass::Object, "AnimInstance1P", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000000, 1, nullptr, STRUCT_OFFSET(AGun, AnimInstance1P), Z_Construct_UClass_UAnimInstance_NoRegister, METADATA_PARAMS(NewProp_AnimInstance1P_MetaData, ARRAY_COUNT(NewProp_AnimInstance1P_MetaData)) };
 #if WITH_METADATA
-			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_FireAnimation_MetaData[] = {
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_FireAnimation3P_MetaData[] = {
+				{ "Category", "Gameplay" },
+				{ "ModuleRelativePath", "Weapons/Gun.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_FireAnimation3P = { UE4CodeGen_Private::EPropertyClass::Object, "FireAnimation3P", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000005, 1, nullptr, STRUCT_OFFSET(AGun, FireAnimation3P), Z_Construct_UClass_UAnimMontage_NoRegister, METADATA_PARAMS(NewProp_FireAnimation3P_MetaData, ARRAY_COUNT(NewProp_FireAnimation3P_MetaData)) };
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_FireAnimation1P_MetaData[] = {
 				{ "Category", "Gameplay" },
 				{ "ModuleRelativePath", "Weapons/Gun.h" },
 				{ "ToolTip", "AnimMontage to play each time we fire" },
 			};
 #endif
-			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_FireAnimation = { UE4CodeGen_Private::EPropertyClass::Object, "FireAnimation", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000005, 1, nullptr, STRUCT_OFFSET(AGun, FireAnimation), Z_Construct_UClass_UAnimMontage_NoRegister, METADATA_PARAMS(NewProp_FireAnimation_MetaData, ARRAY_COUNT(NewProp_FireAnimation_MetaData)) };
+			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_FireAnimation1P = { UE4CodeGen_Private::EPropertyClass::Object, "FireAnimation1P", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000005, 1, nullptr, STRUCT_OFFSET(AGun, FireAnimation1P), Z_Construct_UClass_UAnimMontage_NoRegister, METADATA_PARAMS(NewProp_FireAnimation1P_MetaData, ARRAY_COUNT(NewProp_FireAnimation1P_MetaData)) };
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_FireSound_MetaData[] = {
 				{ "Category", "Gameplay" },
@@ -124,8 +136,10 @@ void EmptyLinkFunctionForGeneratedCodeGun() {}
 #endif
 			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_FP_Gun = { UE4CodeGen_Private::EPropertyClass::Object, "FP_Gun", RF_Public|RF_Transient|RF_MarkAsNative, 0x00100000000b0009, 1, nullptr, STRUCT_OFFSET(AGun, FP_Gun), Z_Construct_UClass_USkeletalMeshComponent_NoRegister, METADATA_PARAMS(NewProp_FP_Gun_MetaData, ARRAY_COUNT(NewProp_FP_Gun_MetaData)) };
 			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
-				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_AnimInstance,
-				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_FireAnimation,
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_AnimInstance3P,
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_AnimInstance1P,
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_FireAnimation3P,
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_FireAnimation1P,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_FireSound,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_ProjectileClass,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_FP_MuzzleLocation,
@@ -149,7 +163,7 @@ void EmptyLinkFunctionForGeneratedCodeGun() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AGun, 1605989186);
+	IMPLEMENT_CLASS(AGun, 1821613585);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AGun(Z_Construct_UClass_AGun, &AGun::StaticClass, TEXT("/Script/TestingGrounds_05"), TEXT("AGun"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AGun);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
