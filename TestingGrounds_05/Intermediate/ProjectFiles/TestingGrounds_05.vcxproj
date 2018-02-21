@@ -414,6 +414,7 @@
 		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini" />
 		<None Include="..\..\Config\DefaultEngine.ini" />
 		<None Include="..\..\Config\DefaultGame.ini" />
+		<None Include="..\..\Config\DefaultGameplayTags.ini" />
 		<None Include="..\..\Config\DefaultInput.ini" />
 		<None Include="..\..\Source\TestingGrounds_05\TestingGrounds_05.Build.cs" />
 		<ClCompile Include="..\..\Source\TestingGrounds_05\TestingGrounds_05.cpp" />
@@ -430,6 +431,8 @@
 		<ClInclude Include="..\..\Source\TestingGrounds_05\NPC\PatrolRoute.h" />
 		<ClCompile Include="..\..\Source\TestingGrounds_05\Player\FirstPersonCharacter.cpp" />
 		<ClInclude Include="..\..\Source\TestingGrounds_05\Player\FirstPersonCharacter.h" />
+		<ClCompile Include="..\..\Source\TestingGrounds_05\Terrain\Tile.cpp" />
+		<ClInclude Include="..\..\Source\TestingGrounds_05\Terrain\Tile.h" />
 		<ClCompile Include="..\..\Source\TestingGrounds_05\Weapons\BallProjectile.cpp" />
 		<ClInclude Include="..\..\Source\TestingGrounds_05\Weapons\BallProjectile.h" />
 		<ClCompile Include="..\..\Source\TestingGrounds_05\Weapons\Gun.cpp" />
