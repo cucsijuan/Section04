@@ -3,9 +3,9 @@
   Compiling game modules for hot reload
   Performing 3 actions (2 in parallel)
   Tile.cpp
-  [2/3] Link UE4Editor-TestingGrounds_05-8504.dll
-  [3/3] Link UE4Editor-TestingGrounds_05-8504.lib
-     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8504.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8504.exp
-     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8504.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-8504.suppressed.exp
+  [2/3] Link UE4Editor-TestingGrounds_05-3475.dll
+  [3/3] Link UE4Editor-TestingGrounds_05-3475.lib
+     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-3475.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-3475.exp
+     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-3475.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-3475.suppressed.exp
   Deploying TestingGrounds_05Editor Win64 Development...
-  Total build time: 18.89 seconds (Local executor: 4.54 seconds)
+  Total build time: 9.87 seconds (Local executor: 1.32 seconds)
