@@ -416,6 +416,10 @@
 		<None Include="..\..\Config\DefaultGame.ini" />
 		<None Include="..\..\Config\DefaultGameplayTags.ini" />
 		<None Include="..\..\Config\DefaultInput.ini" />
+		<ClCompile Include="..\..\Source\TestingGrounds_05\ActorPool.cpp" />
+		<ClInclude Include="..\..\Source\TestingGrounds_05\ActorPool.h" />
+		<ClCompile Include="..\..\Source\TestingGrounds_05\InfiniteTerrainGameMode.cpp" />
+		<ClInclude Include="..\..\Source\TestingGrounds_05\InfiniteTerrainGameMode.h" />
 		<None Include="..\..\Source\TestingGrounds_05\TestingGrounds_05.Build.cs" />
 		<ClCompile Include="..\..\Source\TestingGrounds_05\TestingGrounds_05.cpp" />
 		<ClInclude Include="..\..\Source\TestingGrounds_05\TestingGrounds_05.h" />
