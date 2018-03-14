@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\TestingGrounds_05.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{DE455263-2CB5-4EE7-BC35-303E4DE792CD}</UniqueIdentifier>
+			<UniqueIdentifier>{30A759B8-FEFB-4B03-BF9D-16346F103F2C}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestingGrounds_05.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{416105CB-D01C-4E8A-9A5F-CFD958DB1476}</UniqueIdentifier>
+			<UniqueIdentifier>{CC9A190B-BAFE-4EE2-A72D-6D5EBB531035}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -34,7 +34,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\TestingGrounds_05">
-			<UniqueIdentifier>{CA55AD8E-8785-4469-9A1C-8D39BF50434E}</UniqueIdentifier>
+			<UniqueIdentifier>{602DEA09-94CF-46AA-9BA9-55C1AEA80C75}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\TestingGrounds_05\ActorPool.cpp">
 			<Filter>Source\TestingGrounds_05</Filter>
@@ -70,7 +70,7 @@
 			<Filter>Source\TestingGrounds_05</Filter>
 		</ClInclude >
 		<Filter Include="Source\TestingGrounds_05\Character">
-			<UniqueIdentifier>{A75EBE41-4D9C-45A1-8C38-9F7F5C76397F}</UniqueIdentifier>
+			<UniqueIdentifier>{F35D98F1-2712-44D1-9382-A85C3B7061D4}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\TestingGrounds_05\Character\Mannequin.cpp">
 			<Filter>Source\TestingGrounds_05\Character</Filter>
@@ -79,7 +79,7 @@
 			<Filter>Source\TestingGrounds_05\Character</Filter>
 		</ClInclude >
 		<Filter Include="Source\TestingGrounds_05\NPC">
-			<UniqueIdentifier>{47941AA9-F7F3-4EDA-8805-07A1910470E4}</UniqueIdentifier>
+			<UniqueIdentifier>{376CD4A7-E161-409C-8EAF-11A956DE7FFC}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\TestingGrounds_05\NPC\ChooseNextWaypoint.cpp">
 			<Filter>Source\TestingGrounds_05\NPC</Filter>
@@ -94,7 +94,7 @@
 			<Filter>Source\TestingGrounds_05\NPC</Filter>
 		</ClInclude >
 		<Filter Include="Source\TestingGrounds_05\Player">
-			<UniqueIdentifier>{804B3390-C3B4-4647-8186-6E4FD7F9EA23}</UniqueIdentifier>
+			<UniqueIdentifier>{555A68D6-9D1E-4C02-BAA8-C2991FA726C0}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\TestingGrounds_05\Player\FirstPersonCharacter.cpp">
 			<Filter>Source\TestingGrounds_05\Player</Filter>
@@ -103,7 +103,7 @@
 			<Filter>Source\TestingGrounds_05\Player</Filter>
 		</ClInclude >
 		<Filter Include="Source\TestingGrounds_05\Terrain">
-			<UniqueIdentifier>{AF514AAB-82D3-40D6-BCEE-B7F8BE540D2E}</UniqueIdentifier>
+			<UniqueIdentifier>{1FEB3194-329E-49AC-A131-FBC4586D25E9}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\TestingGrounds_05\Terrain\GrassComponent.cpp">
 			<Filter>Source\TestingGrounds_05\Terrain</Filter>
@@ -118,7 +118,7 @@
 			<Filter>Source\TestingGrounds_05\Terrain</Filter>
 		</ClInclude >
 		<Filter Include="Source\TestingGrounds_05\Weapons">
-			<UniqueIdentifier>{21347865-3FC7-47BE-86FE-5CE340A9989E}</UniqueIdentifier>
+			<UniqueIdentifier>{B0BEE5A3-F25B-4D77-B076-AEBA9DACA6CA}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\TestingGrounds_05\Weapons\BallProjectile.cpp">
 			<Filter>Source\TestingGrounds_05\Weapons</Filter>
