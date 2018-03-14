@@ -19,12 +19,30 @@ void ATile::SetPool(UActorPool * InPool)
 {
 	UE_LOG(LogTemp, Warning, TEXT("[%s]Setting pool: %s"), *(this->GetName()),*(InPool->GetName()))
 	Pool = InPool;
+	PositionNavMeshBoundsVolume();
+}
+
+void ATile::PositionNavMeshBoundsVolume()
+{
+	NavMeshBoundsvolume = Pool->Checkout();
+	if (NavMeshBoundsvolume == nullptr)
+	{
+		UE_LOG(LogTemp, Error, TEXT("Not enough actors in pool."))
+		return;
+	}
+	NavMeshBoundsvolume->SetActorLocation(GetActorLocation());
+	
 }
 
 // Called when the game starts or when spawned
 void ATile::BeginPlay()
 {
 	Super::BeginPlay();
+}
+
+void ATile::EndPlay(const EEndPlayReason::Type EndPlayReason)
+{
+	Pool->Return(NavMeshBoundsvolume);
 }
 
 // Called every frame
