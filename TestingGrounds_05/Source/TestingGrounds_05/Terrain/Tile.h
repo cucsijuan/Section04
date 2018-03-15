@@ -25,9 +25,11 @@ class TESTINGGROUNDS_05_API ATile : public AActor
 public:	
 	// Sets default values for this actor's properties
 	ATile();
-	UFUNCTION(BLueprintcallable, Category = "Weapon")
+	UFUNCTION(BLueprintcallable, Category = "Spawning")
 	void PlaceActors(TSubclassOf<AActor> ToSpawn, int32 MinSpawn = 1, int32 MaxSpawn = 1, float Radius = 500, float MinScale = 1, float MaxScale = 1);
-	
+	UFUNCTION(BLueprintcallable, Category = "Spawning")
+	void PlaceAIPawns(TSubclassOf<APawn> ToSpawn, int32 MinSpawn = 1, int32 MaxSpawn = 1, float Radius = 500);
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -54,6 +56,8 @@ private:
 	bool FindEmptyLocation(FVector & OutLocation,float Radius);
 
 	void PlaceActor(TSubclassOf<AActor>ToSpawn, const FSpawnPosition& SpawnPosition);
+
+	void PlaceAIPawn(TSubclassOf<APawn> ToSpawn, const FSpawnPosition & SpawnPosition);
 
 	bool CanSpawnAtLocation(FVector Location, float Radius);
 	
