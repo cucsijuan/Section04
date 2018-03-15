@@ -1,33 +1,10 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build.
-  Creating makefile for TestingGrounds_05Editor (no existing makefile)
-  Parsing headers for TestingGrounds_05Editor
-    Running UnrealHeaderTool "C:\Users\admin\Documents\Section05\TestingGrounds_05\TestingGrounds_05.uproject" "C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\TestingGrounds_05Editor\Development\TestingGrounds_05Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for TestingGrounds_05Editor in 9.4281235 seconds
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-1891.dll".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-1891.pdb".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-3013.dll".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-3013.pdb".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-3427.dll".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-3427.pdb".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-5419.dll".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-5419.pdb".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-5450.dll".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-5450.pdb".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-5605.dll".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-5605.pdb".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-7878.dll".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-7878.pdb".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-8396.dll".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-8396.pdb".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-8922.dll".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-8922.pdb".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-913.dll".
-  Deleting old hot reload file: "C:\Users\admin\Documents\Section05\TestingGrounds_05\Binaries\Win64\UE4Editor-TestingGrounds_05-913.pdb".
+  Compiling game modules for hot reload
   Performing 3 actions (2 in parallel)
   Tile.cpp
-  [2/3] Link UE4Editor-TestingGrounds_05.dll
-  [3/3] Link UE4Editor-TestingGrounds_05.lib
-     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05.exp
-     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05.suppressed.exp
+  [2/3] Link UE4Editor-TestingGrounds_05-801.dll
+  [3/3] Link UE4Editor-TestingGrounds_05-801.lib
+     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-801.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-801.exp
+     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-801.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-801.suppressed.exp
   Deploying TestingGrounds_05Editor Win64 Development...
-  Total build time: 24.30 seconds (Local executor: 2.33 seconds)
+  Total build time: 29.39 seconds (Local executor: 25.68 seconds)

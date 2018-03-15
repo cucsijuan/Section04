@@ -37,7 +37,7 @@ void ATile::PositionNavMeshBoundsVolume()
 		return;
 	}
 	UE_LOG(LogTemp, Warning, TEXT("[%s] Checked out: {%s}"),*GetName(),*NavMeshBoundsvolume->GetName())
-	NavMeshBoundsvolume->SetActorLocation(GetActorLocation());
+	NavMeshBoundsvolume->SetActorLocation(GetActorLocation() + NavigationBoundsOffset);
 	GetWorld()->GetNavigationSystem()->Build();
 }
 
