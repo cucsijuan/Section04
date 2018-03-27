@@ -1,11 +1,11 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build.
-  Creating makefile for hot reloading TestingGrounds_05Editor (modules to compile have changed)
+  Creating makefile for hot reloading TestingGrounds_05Editor (ini files are newer than UBTMakefile)
   Compiling game modules for hot reload
   Performing 3 actions (2 in parallel)
   Tile.cpp
-  [2/3] Link UE4Editor-TestingGrounds_05-6183.dll
-  [3/3] Link UE4Editor-TestingGrounds_05-6183.lib
-     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-6183.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-6183.exp
-     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-6183.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-6183.suppressed.exp
+  [2/3] Link UE4Editor-TestingGrounds_05-1286.dll
+  [3/3] Link UE4Editor-TestingGrounds_05-1286.lib
+     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-1286.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-1286.exp
+     Creando biblioteca C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-1286.suppressed.lib y objeto C:\Users\admin\Documents\Section05\TestingGrounds_05\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds_05-1286.suppressed.exp
   Deploying TestingGrounds_05Editor Win64 Development...
-  Total build time: 40.91 seconds (Local executor: 27.35 seconds)
+  Total build time: 45.54 seconds (Local executor: 28.09 seconds)

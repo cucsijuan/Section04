@@ -49,7 +49,11 @@ void ATile::BeginPlay()
 
 void ATile::EndPlay(const EEndPlayReason::Type EndPlayReason)
 {
-	Pool->Return(NavMeshBoundsvolume);
+	if (Pool != nullptr && NavMeshBoundsvolume != nullptr)
+	{
+		Pool->Return(NavMeshBoundsvolume);
+	}
+	
 }
 
 // Called every frame
@@ -136,12 +140,11 @@ void ATile::PlaceActor(TSubclassOf<AActor> ToSpawn, const FSpawnPosition & Spawn
 
 void ATile::PlaceActor(TSubclassOf<APawn> ToSpawn, const FSpawnPosition & SpawnPosition)
 {
-	APawn * Spawned = GetWorld()->SpawnActor<APawn>(ToSpawn);
+	FRotator Rotation = FRotator(0, SpawnPosition.Rotation, 0);
+	APawn * Spawned = GetWorld()->SpawnActor<APawn>(ToSpawn, SpawnPosition.SpawnLocation,Rotation);
 	if (Spawned)
 	{
-		Spawned->SetActorRelativeLocation(SpawnPosition.SpawnLocation);
 		Spawned->AttachToActor(this, FAttachmentTransformRules(EAttachmentRule::KeepRelative, false));
-		Spawned->SetActorRotation(FRotator(0, SpawnPosition.Rotation, 0));
 		Spawned->SpawnDefaultController();
 		Spawned->Tags.Add(FName("Enemy"));
 	}
